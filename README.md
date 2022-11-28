@@ -223,7 +223,7 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
     12. Firebase 활용하기 (2H)
     13. 배포 해보기 (2H)
     14. 초간단 웹앱 만들기 (10H)
-- 강의자료: [강의자료](resources/사람인/강의자료)
+- [강의자료](resources/사람인/강의자료/)
 
 ### 오프라인 수강 
 - 프로젝트로 정복하는 RxJava 2기 (2019.09 ~ 2019.10)
