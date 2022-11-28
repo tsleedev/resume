@@ -1,7 +1,7 @@
 # 이태수
 
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:
-> https://github.com/tsleedev/tsleedev/resume
+> https://github.com/tsleedev/resume
 
 안녕하세요. 2022년 현재 13년차 iOS 개발자 이태수 입니다.
 Objectvice-c, Swift, RxSwift, MVVM 패턴으로 개발하고 있습니다.
