@@ -3,7 +3,7 @@
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:
 > https://github.com/tsleedev/resume
 
-안녕하세요. 2022년 현재 13년차 iOS 개발자 이태수 입니다.
+안녕하세요. 2023년 현재 14년차 iOS 개발자 이태수 입니다.
 Objectvice-c, Swift, RxSwift, MVVM 패턴으로 개발하고 있습니다.
 SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있습니다.
 안드로이드 개발자, 디자이너, 기획자와 원할한 커뮤니케이션으로 업무 및 앱 퀄리티 향상에 기여합니다.
@@ -30,16 +30,16 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 - 해외출장 (미국 댈러스, 2012.03 ~ 2012.04)
 
 ## 경력
-- 핀크 (2022년 4월 ~ )
+- 핀크 (2020년 4월 ~ )
     - RxSwift MVVM 패턴으로 앱 개발 및 유지 보수
     - objective-c > Swift로 전환 > RxSwift MVVM 도입
     - AFNetwork -> Alamofire 전환
-- 사람인HR (2013년 11월 ~ 2022년 3월, 6년 5개월)
+- 사람인HR (2013년 11월 ~ 2020년 3월, 6년 5개월)
     - RxSwift MVVM 패턴으로 앱 개발 및 유지 보수
     - objective-c > Swift 전환
     - UIWebView > WKWebView 전환
     - Javascript Bridge 모듈화 및 가이드
-- 플레타뮤토 (2014년 12월 ~ 2017년 7월, 3년 10개월)
+- 플레타뮤토 (2009년 10월 ~ 2013년 7월, 3년 10개월)
     - objective-c로 앱 개발 및 유지 보수
 
 ## 프로젝트 (핀크)
