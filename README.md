@@ -45,13 +45,14 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 ## 프로젝트 (핀크)
 ### 핀크 (2020.04 ~ )
 - 소개: 무료 송금, 마이데이터 서비스
-- 관련 기술: RxSwift, Storyboard, Auto Layout, Snapkit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, snapkit, SwiftLint 등
+- 관련 기술: RxSwift, Storyboard, Auto Layout, Snapkit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 35%)
     - objective-c > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
     - AFNetwork -> Alamofire 전환 (기여도 80%)
     - SwiftLint 적용 (기여도 100%)
-    - 이미지 푸시, 스크래핑, 제로페이 모바일상품권, 예약송금, 스크래핑 프레임워크화 등 담당
+    - 제플린의 Typograhy 및 Color Style화 (기여도 100%)
+    - 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑 등 담당
 - 확인경로: https://apps.apple.com/app/id1472955601
 
 ## 프로젝트 (핀크)
@@ -169,18 +170,19 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 - 역할: 사업자 특성에 맞춰 메뉴 및 UI 변경 및 필드에서 이슈 대응
 
 ## 오픈 소스 개발
-### Clean Architecture + MVVM + RxSwift + RxFlow + Moya (2022.11)
+### Clean Architecture + MVVM + RxSwift + RxFlow + Moya (2022.11 ~ 계속 개선 중)
 - 소개:
     - Clean Architecture + MVVM + RxSwift + Coordinator(RxFlow) + Moya로 프로젝트를 구성
-    - "Presentation Layer, Domain Layer, Data Layer"를 Package로 구분해 의존성 구분을 명확하게 처리
-    - "CommonView(공통으로 사용할 CustomView 모음), Platform(고통으로 사용할 수 있는 기능 모음)"을 Package로 구분
+    - xib에서 swiftui로 넘어가는 과정에서 사용하기 적합하게 구현
+    - PresentationLayer, DomainLayer, DataLayer를 Package로 구분해 의존성 구분을 명확하게 처리
+    - DILayer로 의존성 관리, PlatformLayer에서 공통 기능 모음
     - Application에서는 Coordinator(RxFlow)와 의존성 주입만 처리하도록 구현
 - 관련 기술: Alamofire, Kingfisher, Moya, RxFlow, RxSwift, RxSwiftExt, SnapKit, SwiftLint, Then, Package
 - 경험 & 성장한 점:
     - [iOS-Clean-Architecture-MVVM-RxSwift](https://github.com/kwontaewan/iOS-Clean-Architecture-MVVM-RxSwift)
       이 프로젝트를 참고해서 RxFlow 추가 및 Package 분리, 테스트 케이스 추가, 검색 관련 코드 보완
 - 확인경로: https://github.com/tsleedev/CleanArchitectureMVVMRxFlowMoya
-- 
+ 
 ### 커스텀 달력 (2018.04)
 - 소개: 달력을 커스텀해서 사용하기 위해 제작
 - 관련 기술: Cocoapods를 통해서 오픈소스로 사용 가능하게 개발
