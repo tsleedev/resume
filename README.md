@@ -55,7 +55,7 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
     - 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑 등 담당
 - 확인경로: https://apps.apple.com/app/id1472955601
 
-## 프로젝트 (핀크)
+## 프로젝트 (사람인)
 ### 아이엠그라운드 (2019.06 ~ 2020.03)
 - 소개: 모의면접 AI 분석 서비스 (인적성 적성검사, 면접 질문에 대해 답변을 녹화 후 AWS에서 분석)
 - 관련 기술: RxSwift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 동영상 촬영, AWS S3, 인앱 결제, Dynamic Link 등
