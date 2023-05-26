@@ -1,18 +1,21 @@
 # 이태수
 
-> 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:
+> 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
 > https://github.com/tsleedev/resume
 
-안녕하세요. 2023년 현재 14년차 iOS 개발자 이태수 입니다.
-Objectvice-c, Swift, RxSwift, MVVM 패턴으로 개발하고 있습니다.
-SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있습니다.
-안드로이드 개발자, 디자이너, 기획자와 원할한 커뮤니케이션으로 업무 및 앱 퀄리티 향상에 기여합니다.
+안녕하세요. 2023년 현재로서 14년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
+저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
+또한, SwiftUI, Clean Architecture, Coordinator(RxFlow) 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
 
-새로운 언어와 프로그래밍 패턴, 도구 사용법을 익히는데 거부감이 없으며,
-스터디 모임에 참가하며 동료들과 함께 성장하는 것을 좋아합니다.
-협업하는 상대방을 배려하며 효율적으로 일 할수 있는 환경을 선호하며,
-다양한 오픈소스 활동 경험으로 팀원들과 함께 코드 리뷰로 소통하면서
-좋은 제품을 만들어가는 문화에 익숙합니다.
+저는 다양한 직군의 팀원들과의 원활한 커뮤니케이션을 통해 업무 효율성과 앱의 품질 향상에 기여하는 것을 중요하게 생각합니다.<br>
+안드로이드 개발자, 디자이너, 그리고 기획자와의 협업에서는 서로에게 배울 점이 많다는 것을 깨달았습니다.
+
+새로운 프로그래밍 언어와 패턴, 그리고 도구에 대한 학습에는 언제나 적극적입니다.<br>
+동료들과 함께 성장하는 것을 중요시하며, 이를 위해 스터디 모임에 적극적으로 참여합니다.
+
+저는 업무의 효율성을 극대화하고, 동료들을 배려하는 것이 중요하다고 생각합니다.<br>
+이러한 접근 방식은 제 오픈소스 활동 경험에도 반영되어 있습니다.<br>
+소통을 통한 개선과, 코드 리뷰를 통한 지속적인 학습을 통해 우수한 제품을 만들어 나가는 문화에 익숙합니다.
 
 ## 취미
 - 토이 프로젝트 개발, 넷플릭스, 웹툰, 수영, 아이들이랑 놀기
@@ -45,13 +48,14 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 ## 프로젝트 (핀크)
 ### 핀크 (2020.04 ~ )
 - 소개: 무료 송금, 마이데이터 서비스
-- 관련 기술: RxSwift, Storyboard, Auto Layout, Snapkit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint 등
+- 관련 기술: RxSwift, Storyboard, Auto Layout, Snapkit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 35%)
     - objective-c > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
     - AFNetwork -> Alamofire 전환 (기여도 80%)
     - SwiftLint 적용 (기여도 100%)
     - 제플린의 Typograhy 및 Color Style화 (기여도 100%)
+    - SwiftGen 적용 (기여도 100%)
     - 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑 등 담당
 - 확인경로: https://apps.apple.com/app/id1472955601
 
@@ -74,7 +78,7 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 - 경험 & 성장한 점:
     - 일정 조율 및 프로젝트 관리 등을 맡아서 진행한 경험
     - 잦은 웹과 앱의 연동 요청으로 Javascript Bridge 모듈화 및 가이드화해 세미나를 통해 전파한 경험
-    - 3D Touch, 이미지 푸시(Notification Service Extension, TodayExtension 등 새로운 기술을 적용 건의해 추가한 경험
+    - 3D Touch, 이미지 푸시(Notification Service Extension), TodayExtension 등 새로운 기술을 적용 건의해 추가한 경험
     - Notification Service Extension을 활용해서 알림 수신 확인 통계를 건의해 추가한 경험
     - Google Analytics, Firebase, Fabric 등을 활용한 통계, Crash 수집 등을 통해 서비스 안정화에 기여함
     - 입사 초기 앱의 안정적인 서비스를 위해 서버점검, 업데이트 팝업을 적용할 수 있게 건의 적용한 경험
@@ -102,7 +106,7 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 - 역할:
     - iOS 개발 유지 보수 (기여도 100%) 
     - objective-c > Swift로 전환 (기여도 100%)
-  - 확인경로: 서비스 종료
+- 확인경로: 서비스 종료
 
 ### 권역/버티컬 (2013.11 ~ 2016.12)
 - 소개: 지역별(4종) 업종별(13종)로 채용 공고를 보여주는 앱
@@ -160,13 +164,12 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
 - 관련 기술: Xib, 연락처 동기화(AddressBook.framework), 멀티 이미지 전송(AssetsLibray.framework), CoreData 등
 - 역할: iOS 개발 및 기능 업데이트 (친구 목록 관리)
 - 경험 & 성장한 점:
-    - 실무에서 첫 iOS 프로젝트로 여러명이서 협업하는 것을 배움
+    - 실무에서 첫 iOS 프로젝트로 여러 사람과 협업하는 것을 배움
     - iOS의 배포 프로세스 및 인증서 관리 등을 경험
 - 확인경로: 서비스 종료
 
 ### 3G 모델 미주향
 - 소개: 3G 단말기를 AT&T, TMO, Tracfone 등 사업자 향에 맞춤
-- 관련 기술: Xib, 연락처 동기화(AddressBook.framework), 멀티 이미지 전송(AssetsLibray.framework), CoreData 등
 - 역할: 사업자 특성에 맞춰 메뉴 및 UI 변경 및 필드에서 이슈 대응
 
 ## 오픈 소스 개발
@@ -177,11 +180,13 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
     - PresentationLayer, DomainLayer, DataLayer를 Package로 구분해 의존성 구분을 명확하게 처리
     - DILayer로 의존성 관리, PlatformLayer에서 공통 기능 모음
     - Application에서는 Coordinator(RxFlow)와 의존성 주입만 처리하도록 구현
+    - Mock 데이터로 SwiftUI Preview 활용
 - 관련 기술: Alamofire, Kingfisher, Moya, RxFlow, RxSwift, RxSwiftExt, SnapKit, SwiftLint, Then, Package
 - 경험 & 성장한 점:
     - [iOS-Clean-Architecture-MVVM-RxSwift](https://github.com/kwontaewan/iOS-Clean-Architecture-MVVM-RxSwift)
       이 프로젝트를 참고해서 RxFlow 추가 및 Package 분리, 테스트 케이스 추가, 검색 관련 코드 보완
 - 확인경로: https://github.com/tsleedev/CleanArchitectureMVVMRxFlowMoya
+- 앞으로: Tuist로 Package는 Target으로 외부 라이브러리는 캐싱해서 사용 할 수 있도록 진행 중
  
 ### 커스텀 달력 (2018.04)
 - 소개: 달력을 커스텀해서 사용하기 위해 제작
@@ -260,7 +265,7 @@ SwiftUI, Clean Architecture, Coordinaor(RxFlow) 등을 활용한 경험이 있�
     - 기본 미리 알림의 데이터를 가져와서 위젯에서 사용하기 편하게 만듬
 - 관련 기술: TodayExtension, EventKit, App Groups, 다국어지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
-- 확인경로: https://apps.apple.com/kr/app/id1209759007
+- 확인경로: 서비스 종료
 
 ## 스터디 프로젝트
 ### Today Class (2013.02)
