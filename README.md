@@ -56,6 +56,7 @@
     - SwiftLint 적용 (기여도 100%)
     - 제플린의 Typograhy 및 Color Style화 (기여도 100%)
     - SwiftGen 적용 (기여도 100%)
+    - Tuist 도입 (기여도 100%)
     - 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑 등 담당
 - 확인경로: https://apps.apple.com/app/id1472955601
 
