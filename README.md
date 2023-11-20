@@ -5,7 +5,7 @@
 
 안녕하세요. 2023년 현재로서 14년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
 저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
-또한, SwiftUI, Clean Architecture, Coordinator(RxFlow) 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
+또한, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
 
 저는 다양한 직군의 팀원들과의 원활한 커뮤니케이션을 통해 업무 효율성과 앱의 품질 향상에 기여하는 것을 중요하게 생각합니다.<br>
 안드로이드 개발자, 디자이너, 그리고 기획자와의 협업에서는 서로에게 배울 점이 많다는 것을 깨달았습니다.
@@ -33,17 +33,31 @@
 - 해외출장 (미국 댈러스, 2012.03 ~ 2012.04)
 
 ## 경력
-- 핀크 (2020년 4월 ~ )
-    - RxSwift MVVM 패턴으로 앱 개발 및 유지 보수
-    - objective-c > Swift로 전환 > RxSwift MVVM 도입
-    - AFNetwork -> Alamofire 전환
-- 사람인HR (2013년 11월 ~ 2020년 3월, 6년 5개월)
-    - RxSwift MVVM 패턴으로 앱 개발 및 유지 보수
-    - objective-c > Swift 전환
+### 핀크 (2020년 4월 ~ )
+- 기술 전환 및 코드 품질 관리:
+    - Objective-C > Swift 전환
+    - AFNetwork > Alamofire 전환
+    - SwiftLint 및 SwiftGen 적용
+- 아키텍처 혁신 및 표준화:
+    - RxSwift 및 MVVM 패턴 도입
+    - Composable Architecture 도입
+    - Tuist 및 Modular Architecture 도입으로 Preview 및 DemoApp 활용.
+    - 피그마를 활용한 Typography 및 Color Style 표준화
+- 다양한 기능 개발 및 관리:
+    - 송금, 예약송금, 이미지 푸시, 모바일상품권, 스크래핑, 전자문서지갑 등
+
+### 사람인HR (2013년 11월 ~ 2020년 3월, 6년 5개월)
+- 기술 전환 및 코드 품질 관리:
+    - Objective-C > Swift 전환
+    - AFNetwork > Alamofire 전환
     - UIWebView > WKWebView 전환
+- 아키텍처 혁신 및 표준화:
+    - RxSwift 및 MVVM 패턴 도입
     - Javascript Bridge 모듈화 및 가이드
-- 플레타뮤토 (2009년 10월 ~ 2013년 7월, 3년 10개월)
-    - objective-c로 앱 개발 및 유지 보수
+
+### 플레타뮤토 (2009년 10월 ~ 2013년 7월, 3년 10개월)
+- objective-c로 앱 개발 및 유지 보수
+- CoreData 사용
 
 ## 프로젝트 (핀크)
 ### 핀크 (2020.04 ~ )
@@ -53,10 +67,10 @@
     - iOS 설계 개발 유지 보수 (기여도 35%)
     - objective-c > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
     - AFNetwork -> Alamofire 전환 (기여도 80%)
-    - SwiftLint 적용 (기여도 100%)
-    - 제플린의 Typograhy 및 Color Style화 (기여도 100%)
-    - SwiftGen 적용 (기여도 100%)
-    - Tuist 도입 (기여도 100%)
+    - SwiftLint, SwiftGen 적용 (기여도 100%)
+    - 피그마의 Typograhy 및 Color Style화 (기여도 100%)
+    - Composable Architecture 도입 (기여도 100%)
+    - Tuist 및 Modular Architecture 도입 (기여도 100%)
     - 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑 등 담당
 - 확인경로: https://apps.apple.com/app/id1472955601
 
@@ -174,7 +188,7 @@
 - 역할: 사업자 특성에 맞춰 메뉴 및 UI 변경 및 필드에서 이슈 대응
 
 ## 오픈 소스 개발
-### Clean Architecture + MVVM + RxSwift + RxFlow + Moya (2022.11 ~ 계속 개선 중)
+### Clean Architecture + MVVM + RxSwift + RxFlow + Moya (2022.11 ~ 2023.09.13)
 - 소개:
     - Clean Architecture + MVVM + RxSwift + Coordinator(RxFlow) + Moya로 프로젝트를 구성
     - xib에서 swiftui로 넘어가는 과정에서 사용하기 적합하게 구현
@@ -187,29 +201,34 @@
     - [iOS-Clean-Architecture-MVVM-RxSwift](https://github.com/kwontaewan/iOS-Clean-Architecture-MVVM-RxSwift)
       이 프로젝트를 참고해서 RxFlow 추가 및 Package 분리, 테스트 케이스 추가, 검색 관련 코드 보완
 - 확인경로: https://github.com/tsleedev/CleanArchitectureMVVMRxFlowMoya
-- 앞으로: Tuist로 Package는 Target으로 외부 라이브러리는 캐싱해서 사용 할 수 있도록 진행 중
- 
+
+### 커스텀 달력 (2018.04)
+- 소개: AdMob과 AdManager를 사용편하게 사용하기 위해 제작
+- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
+- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
+- 확인경로: https://github.com/tsleedev/TSAdView
+
 ### 커스텀 달력 (2018.04)
 - 소개: 달력을 커스텀해서 사용하기 위해 제작
-- 관련 기술: Cocoapods를 통해서 오픈소스로 사용 가능하게 개발
+- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
 - 확인경로: https://github.com/tsleedev/TSCalendar2
 
 ### 로컬 알림 관리 (2021.06)
 - 소개: 로컬 알림 개수 제한(64개)을 최대로 활용하기 위해 가장 빠른 일정의 알림 등록을 도와주기 위해 제작
-- 관련 기술: Cocoapods를 통해서 오픈소스로 사용 가능하게 개발
+- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
 - 확인경로: https://github.com/tsleedev/TSUserNotifications
 
 ### WKWebView 쿠키 관리 (2021.07)
 - 소개: WKWebview는 쿠키를 직접 관리해야해서 쿠키 관리 및 Javascript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
-- 관련 기술: Cocoapods를 통해서 오픈소스로 사용 가능하게 개발
+- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
 - 확인경로: https://github.com/tsleedev/TSWebView
 
 ### 화면 전환 애니메이션 (2021.10)
 - 소개: 화면 전환 애니메이션을 사용하기 쉽게하기 위해 제작
-- 관련 기술: Cocoapods를 통해서 오픈소스로 사용 가능하게 개발
+- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
 - 확인경로: https://github.com/tsleedev/TSPresentation
 
