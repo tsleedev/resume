@@ -250,7 +250,7 @@
     12. Firebase 활용하기 (2H)
     13. 배포 해보기 (2H)
     14. 초간단 웹앱 만들기 (10H)
-- [강의자료](resources/사람인/강의자료/)
+- [강의자료](https://github.com/tsleedev/resume/blob/master/resources/%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B5%E1%86%AB/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)
 
 ### 오프라인 수강 
 - 프로젝트로 정복하는 RxJava 2기 (2019.09 ~ 2019.10)
@@ -258,11 +258,11 @@
 - Flutter로 구현하는 크로스플랫폼 앱 개발 1기 (2019.05 ~ 2019.06)
 - RxSwift로 완성하는 iOS 앱 개발 3기 (2018.07 ~ 2018.08)
 - Oracle DB 설계 & Java Modeling (SIST 쌍용교육센터, 2009.02 ~ 2009.08)
-- [과육과정 및 수료증](resources/수료증)
+- [과육과정 및 수료증](https://github.com/tsleedev/resume/blob/master/resources/%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC)
 
 ### 온라인 수강
 - The RED : 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 (2022.03)
-- [과육과정 및 수료증](resources/수료증)
+- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/%EC%88%98%EB%A3%8C%EC%A6%9D/20220325-Swift)
 
 ### 컨퍼런스
 - FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요 (2019.07.27)
