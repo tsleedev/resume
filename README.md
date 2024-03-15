@@ -3,7 +3,7 @@
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
 > https://github.com/tsleedev/resume
 
-안녕하세요. 2023년 현재로서 14년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
+안녕하세요. 2024년 현재로서 14년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
 저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
 또한, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
 
@@ -202,7 +202,7 @@
       이 프로젝트를 참고해서 RxFlow 추가 및 Package 분리, 테스트 케이스 추가, 검색 관련 코드 보완
 - 확인경로: https://github.com/tsleedev/CleanArchitectureMVVMRxFlowMoya
 
-### 커스텀 달력 (2018.04)
+### 광고 관리 (2023.07)
 - 소개: AdMob과 AdManager를 사용편하게 사용하기 위해 제작
 - 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
