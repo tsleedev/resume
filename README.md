@@ -1,7 +1,7 @@
 # 이태수
 
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
-> https://github.com/tsleedev/resume
+> [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
 안녕하세요. 2024년 현재로서 14년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
 저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
@@ -16,6 +16,9 @@
 저는 업무의 효율성을 극대화하고, 동료들을 배려하는 것이 중요하다고 생각합니다.<br>
 이러한 접근 방식은 제 오픈소스 활동 경험에도 반영되어 있습니다.<br>
 소통을 통한 개선과, 코드 리뷰를 통한 지속적인 학습을 통해 우수한 제품을 만들어 나가는 문화에 익숙합니다.
+
+## 블로그
+- [https://velog.io/@tslee/posts](https://velog.io/@tslee/posts)
 
 ## 취미
 - 토이 프로젝트 개발, 넷플릭스, 웹툰, 수영, 아이들이랑 놀기
@@ -38,13 +41,16 @@
     - Objective-C > Swift 전환
     - AFNetwork > Alamofire 전환
     - SwiftLint 및 SwiftGen 적용
+    - 테스트 코드를 작성하여 앱의 안정성과 신뢰성 강화
+    - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질 향상
+    - 팀 세미나를 주최하여 최신 기술 동향 및 모범 사례 공유
 - 아키텍처 혁신 및 표준화:
     - RxSwift 및 MVVM 패턴 도입
     - Composable Architecture 도입
-    - Tuist 및 Modular Architecture 도입으로 Preview 및 DemoApp 활용.
+    - Tuist 및 Modular Architecture 도입으로 Preview 및 DemoApp 활용
     - 피그마를 활용한 Typography 및 Color Style 표준화
 - 다양한 기능 개발 및 관리:
-    - 송금, 예약송금, 이미지 푸시, 모바일상품권, 스크래핑, 전자문서지갑 등
+    - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
 
 ### 사람인HR (2013년 11월 ~ 2020년 3월, 6년 5개월)
 - 기술 전환 및 코드 품질 관리:
@@ -58,6 +64,7 @@
 ### 플레타뮤토 (2009년 10월 ~ 2013년 7월, 3년 10개월)
 - objective-c로 앱 개발 및 유지 보수
 - CoreData 사용
+<br><br>
 
 ## 프로젝트 (핀크)
 ### 핀크 (2020.04 ~ )
@@ -71,8 +78,12 @@
     - 피그마의 Typograhy 및 Color Style화 (기여도 100%)
     - Composable Architecture 도입 (기여도 100%)
     - Tuist 및 Modular Architecture 도입 (기여도 100%)
-    - 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑 등 담당
-- 확인경로: https://apps.apple.com/app/id1472955601
+    - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등 담당
+    - 테스트 코드를 작성하여 앱의 안정성과 신뢰성을 강화
+    - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질을 향상
+    - 팀 세미나를 주최하여 최신 기술 동향 및 모범 사례를 공유
+- 확인경로: [https://apps.apple.com/app/id1260871482](https://apps.apple.com/app/id1260871482)
+<br><br>
 
 ## 프로젝트 (사람인)
 ### 아이엠그라운드 (2019.06 ~ 2020.03)
@@ -81,7 +92,7 @@
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 100%)
     - RxSwift MVVM 방식으로 앱 개발 및 유지 보수 (기여도 100%)
-- 확인경로: https://apps.apple.com/app/id1472955601
+- 확인경로: [https://apps.apple.com/app/id1472955601](https://apps.apple.com/app/id1472955601)
 
 ### 사람인 (2013.11 ~ 2020.03)
 - 소개: 구인구직 포털 대표 모바일 앱 (공고 검색, 입사지원)
@@ -97,7 +108,7 @@
     - Notification Service Extension을 활용해서 알림 수신 확인 통계를 건의해 추가한 경험
     - Google Analytics, Firebase, Fabric 등을 활용한 통계, Crash 수집 등을 통해 서비스 안정화에 기여함
     - 입사 초기 앱의 안정적인 서비스를 위해 서버점검, 업데이트 팝업을 적용할 수 있게 건의 적용한 경험
-- 확인경로: https://apps.apple.com/app/id739013038
+- 확인경로: [https://apps.apple.com/app/id739013038](https://apps.apple.com/app/id739013038)
 
 ### 연봉계산기 (2013.11 ~ 2020.03)
 - 소개: 연봉으로 한달 수령액을 계산해 주는 앱
@@ -105,7 +116,7 @@
 - 역할:
     - iOS 개발 유지 보수 (기여도 100%) 
     - objective-c > Swift로 전환 (기여도 100%)
-- 확인경로: https://apps.apple.com/app/id536455221
+- 확인경로: [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221)
 
 ### 맞춤취업사람인 (2013.11 ~ 2018. 09)
 - 소개: 사용자의 설정에 맞춰 공고를 보여주는 앱
@@ -147,7 +158,7 @@
     - iOS 설계 개발 유지 보수 (기여도 100%)
     - objective-c > Swift로 전환 (기여도 100%)
     - UIWebView > WKWebView 전환 (기여도 100%)
-- 확인경로: https://apps.apple.com/app/id1093727086
+- 확인경로: [https://apps.apple.com/app/id1093727086](https://apps.apple.com/app/id1093727086)
 
 ### 맞춤알바 (2013.11 ~ 2016.04)
 - 소개: 사용자의 설정에 맞춰 알바 공고를 보여주는 앱
@@ -172,6 +183,7 @@
     - iOS 설계 개발 유지 보수 (기여도 50%)
     - objective-c > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
+<br><br>
 
 ## 프로젝트 (플레타뮤토)
 ### iOS ChatON (챗온)
@@ -186,54 +198,38 @@
 ### 3G 모델 미주향
 - 소개: 3G 단말기를 AT&T, TMO, Tracfone 등 사업자 향에 맞춤
 - 역할: 사업자 특성에 맞춰 메뉴 및 UI 변경 및 필드에서 이슈 대응
+<br><br>
 
 ## 오픈 소스 개발
-### Clean Architecture + MVVM + RxSwift + RxFlow + Moya (2022.11 ~ 2023.09.13)
-- 소개:
-    - Clean Architecture + MVVM + RxSwift + Coordinator(RxFlow) + Moya로 프로젝트를 구성
-    - xib에서 swiftui로 넘어가는 과정에서 사용하기 적합하게 구현
-    - PresentationLayer, DomainLayer, DataLayer를 Package로 구분해 의존성 구분을 명확하게 처리
-    - DILayer로 의존성 관리, PlatformLayer에서 공통 기능 모음
-    - Application에서는 Coordinator(RxFlow)와 의존성 주입만 처리하도록 구현
-    - Mock 데이터로 SwiftUI Preview 활용
-- 관련 기술: Alamofire, Kingfisher, Moya, RxFlow, RxSwift, RxSwiftExt, SnapKit, SwiftLint, Then, Package
-- 경험 & 성장한 점:
-    - [iOS-Clean-Architecture-MVVM-RxSwift](https://github.com/kwontaewan/iOS-Clean-Architecture-MVVM-RxSwift)
-      이 프로젝트를 참고해서 RxFlow 추가 및 Package 분리, 테스트 케이스 추가, 검색 관련 코드 보완
-- 확인경로: https://github.com/tsleedev/CleanArchitectureMVVMRxFlowMoya
+### 토스트 관리 (2024.06)
+- 소개: 토스트를 편하게 사용하기 위해 제작
+- 확인경로: [https://github.com/tsleedev/TSToast](https://github.com/tsleedev/TSToast)
 
 ### 광고 관리 (2023.07)
-- 소개: AdMob과 AdManager를 사용편하게 사용하기 위해 제작
-- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 확인경로: https://github.com/tsleedev/TSAdView
+- 소개: AdMob과 AdManager를 편하게 사용하기 위해 제작
+- 확인경로: [https://github.com/tsleedev/TSAdView](https://github.com/tsleedev/TSAdView)
 
 ### 커스텀 달력 (2018.04)
 - 소개: 달력을 커스텀해서 사용하기 위해 제작
-- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 확인경로: https://github.com/tsleedev/TSCalendar2
+- 확인경로: [https://github.com/tsleedev/TSCalendar2](https://github.com/tsleedev/TSCalendar2)
 
 ### 로컬 알림 관리 (2021.06)
 - 소개: 로컬 알림 개수 제한(64개)을 최대로 활용하기 위해 가장 빠른 일정의 알림 등록을 도와주기 위해 제작
-- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 확인경로: https://github.com/tsleedev/TSUserNotifications
+- 확인경로: [https://github.com/tsleedev/TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)
 
 ### WKWebView 쿠키 관리 (2021.07)
 - 소개: WKWebview는 쿠키를 직접 관리해야해서 쿠키 관리 및 Javascript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
-- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 확인경로: https://github.com/tsleedev/TSWebView
+- 확인경로: [https://github.com/tsleedev/TSWebView](https://github.com/tsleedev/TSWebView)
 
 ### 화면 전환 애니메이션 (2021.10)
 - 소개: 화면 전환 애니메이션을 사용하기 쉽게하기 위해 제작
-- 관련 기술: SPM을 통해서 오픈소스로 사용 가능하게 개발
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 확인경로: https://github.com/tsleedev/TSPresentation
+- 확인경로: [https://github.com/tsleedev/TSPresentation](https://github.com/tsleedev/TSPresentation)
+
+### 그 외 샘플과 데모 프로젝트를 꾸준히 작성 중
+- github: [https://github.com/tsleedev?tab=repositories](https://github.com/tsleedev?tab=repositories)
+<br><br>
 
 ## 그 외 활동
-
 ### 사람인 사내 iOS 세미나 강사 (2019.04)
 - 오프라인으로 매회 1~2시간 강의 14회 이상. 커리큘럼:
     1. Hello, World! (2H)
@@ -250,7 +246,7 @@
     12. Firebase 활용하기 (2H)
     13. 배포 해보기 (2H)
     14. 초간단 웹앱 만들기 (10H)
-- [강의자료](https://github.com/tsleedev/resume/blob/master/resources/%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B5%E1%86%AB/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)
+- [강의자료](https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료)
 
 ### 오프라인 수강 
 - 프로젝트로 정복하는 RxJava 2기 (2019.09 ~ 2019.10)
@@ -258,16 +254,17 @@
 - Flutter로 구현하는 크로스플랫폼 앱 개발 1기 (2019.05 ~ 2019.06)
 - RxSwift로 완성하는 iOS 앱 개발 3기 (2018.07 ~ 2018.08)
 - Oracle DB 설계 & Java Modeling (SIST 쌍용교육센터, 2009.02 ~ 2009.08)
-- [과육과정 및 수료증](https://github.com/tsleedev/resume/blob/master/resources/%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC)
+- [과육과정 및 수료증](https://github.com/tsleedev/resume/blob/master/resources/수료증)
 
 ### 온라인 수강
 - The RED : 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 (2022.03)
-- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/%EC%88%98%EB%A3%8C%EC%A6%9D/20220325-Swift)
+- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증/20220325-Swift)
 
 ### 컨퍼런스
 - FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요 (2019.07.27)
 - 네이버 DEVIEW 2017, 2018
 - AWS Summit Seoul 2017
+<br><br>
 
 ## 개인 프로젝트
 ### 위젯 캘린더 : 깔끔하고 심플한 달력 (2015.12 ~ 2019.11)
@@ -277,7 +274,7 @@
 - 관련 기술: TodayExtension, EventKit, CloudKit, App Groups, RxSwift, Realm, 다국어지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
 - 성과: 스승의 날 기념 컨셉으로 피처링 선정 (2017.04)
-- 확인경로: https://apps.apple.com/kr/app/id1078875308
+- 확인경로: [https://apps.apple.com/kr/app/id1078875308](https://apps.apple.com/kr/app/id1078875308)
 
 ### 위젯 미리알림 (2017.01 ~ 2019.11)
 - 소개:
@@ -286,6 +283,7 @@
 - 관련 기술: TodayExtension, EventKit, App Groups, 다국어지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
 - 확인경로: 서비스 종료
+<br><br>
 
 ## 스터디 프로젝트
 ### Today Class (2013.02)
@@ -313,3 +311,6 @@
 - 관련 기술: Coredata, 다국어지원, GoogleAnalytics
 - 역할: 기획, 개발, 운영 모든 부분을 20% 기여
 - 확인경로: 서비스 종료
+<br><br>
+
+감사합니다.
