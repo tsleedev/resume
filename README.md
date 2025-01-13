@@ -3,9 +3,9 @@
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
-안녕하세요. 2024년 현재로서 14년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
+안녕하세요. 2025년 현재로서 15년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
 저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
-또한, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
+또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
 
 저는 다양한 직군의 팀원들과의 원활한 커뮤니케이션을 통해 업무 효율성과 앱의 품질 향상에 기여하는 것을 중요하게 생각합니다.<br>
 안드로이드 개발자, 디자이너, 그리고 기획자와의 협업에서는 서로에게 배울 점이 많다는 것을 깨달았습니다.
@@ -47,6 +47,7 @@
 - 아키텍처 혁신 및 표준화:
     - RxSwift 및 MVVM 패턴 도입
     - Composable Architecture 도입
+    - FlexLayout, PinLayout 도입
     - Tuist 및 Modular Architecture 도입으로 Preview 및 DemoApp 활용
     - 피그마를 활용한 Typography 및 Color Style 표준화
 - 다양한 기능 개발 및 관리:
@@ -208,6 +209,10 @@
 ### 광고 관리 (2023.07)
 - 소개: AdMob과 AdManager를 편하게 사용하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSAdView](https://github.com/tsleedev/TSAdView)
+
+### SwiftUI 커스텀 달력 (2025.01)
+- 소개: Widget Extension에서 순수 SwiftUI만 사용가능해 SwiftUI로 달력 제작
+- 확인경로: [https://github.com/tsleedev/TSCalendar](https://github.com/tsleedev/TSCalendar)
 
 ### 커스텀 달력 (2018.04)
 - 소개: 달력을 커스텀해서 사용하기 위해 제작
