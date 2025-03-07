@@ -1,7 +1,7 @@
 # 이태수
 
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
-> <a href="https://github.com/tsleedev/resume" target="_blank">https://github.com/tsleedev/resume</a>
+> [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
 안녕하세요. 2025년 현재로서 15년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
 저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
@@ -18,7 +18,7 @@
 소통을 통한 개선과, 코드 리뷰를 통한 지속적인 학습을 통해 우수한 제품을 만들어 나가는 문화에 익숙합니다.
 
 ## 블로그
-- <a href="https://velog.io/@tslee/posts" target="_blank">https://velog.io/@tslee/posts</a>
+- [https://velog.io/@tslee/posts](https://velog.io/@tslee/posts)
 
 ## 취미
 - 토이 프로젝트 개발, 넷플릭스, 웹툰, 수영, 아이들이랑 놀기
@@ -83,7 +83,7 @@
     - 테스트 코드를 작성하여 앱의 안정성과 신뢰성을 강화
     - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질을 향상
     - 팀 세미나를 주최하여 최신 기술 동향 및 모범 사례를 공유
-- 확인경로: <a href="https://apps.apple.com/app/id1260871482" target="_blank">https://apps.apple.com/app/id1260871482</a>
+- 확인경로: [https://apps.apple.com/app/id1260871482](https://apps.apple.com/app/id1260871482)
 <br><br>
 
 ## 프로젝트 (사람인)
@@ -93,7 +93,7 @@
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 100%)
     - RxSwift MVVM 방식으로 앱 개발 및 유지 보수 (기여도 100%)
-- 확인경로: <a href="https://apps.apple.com/app/id1472955601" target="_blank">https://apps.apple.com/app/id1472955601</a>
+- 확인경로: [https://apps.apple.com/app/id1472955601](https://apps.apple.com/app/id1472955601)
 
 ### 사람인 (2013.11 ~ 2020.03)
 - 소개: 구인구직 포털 대표 모바일 앱 (공고 검색, 입사지원)
@@ -109,7 +109,7 @@
     - Notification Service Extension을 활용해서 알림 수신 확인 통계를 건의해 추가한 경험
     - Google Analytics, Firebase, Fabric 등을 활용한 통계, Crash 수집 등을 통해 서비스 안정화에 기여함
     - 입사 초기 앱의 안정적인 서비스를 위해 서버점검, 업데이트 팝업을 적용할 수 있게 건의 적용한 경험
-- 확인경로: <a href="https://apps.apple.com/app/id739013038" target="_blank">https://apps.apple.com/app/id739013038</a>
+- 확인경로: [https://apps.apple.com/app/id739013038](https://apps.apple.com/app/id739013038)
 
 ### 연봉계산기 (2013.11 ~ 2020.03)
 - 소개: 연봉으로 한달 수령액을 계산해 주는 앱
@@ -117,7 +117,7 @@
 - 역할:
     - iOS 개발 유지 보수 (기여도 100%) 
     - objective-c > Swift로 전환 (기여도 100%)
-- 확인경로: <a href="https://apps.apple.com/app/id536455221" target="_blank">https://apps.apple.com/app/id536455221</a>
+- 확인경로: [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221)
 
 ### 맞춤취업사람인 (2013.11 ~ 2018. 09)
 - 소개: 사용자의 설정에 맞춰 공고를 보여주는 앱
@@ -159,7 +159,7 @@
     - iOS 설계 개발 유지 보수 (기여도 100%)
     - objective-c > Swift로 전환 (기여도 100%)
     - UIWebView > WKWebView 전환 (기여도 100%)
-- 확인경로: <a href="https://apps.apple.com/app/id1093727086" target="_blank">https://apps.apple.com/app/id1093727086</a>
+- 확인경로: [https://apps.apple.com/app/id1093727086](https://apps.apple.com/app/id1093727086)
 
 ### 맞춤알바 (2013.11 ~ 2016.04)
 - 소개: 사용자의 설정에 맞춰 알바 공고를 보여주는 앱
@@ -204,34 +204,34 @@
 ## 오픈 소스 개발
 ### 토스트 관리 (2024.06)
 - 소개: 토스트를 편하게 사용하기 위해 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSToast" target="_blank">https://github.com/tsleedev/TSToast</a>
+- 확인경로: [https://github.com/tsleedev/TSToast](https://github.com/tsleedev/TSToast)
 
 ### 광고 관리 (2023.07)
 - 소개: AdMob과 AdManager를 편하게 사용하기 위해 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSAdView" target="_blank">https://github.com/tsleedev/TSAdView</a>
+- 확인경로: [https://github.com/tsleedev/TSAdView](https://github.com/tsleedev/TSAdView)
 
-### SwiftUI 커스텀 달력 (2025.02)
+### SwiftUI 커스텀 달력 (2025.01)
 - 소개: Widget Extension에서 순수 SwiftUI만 사용가능해 SwiftUI로 달력 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSCalendar" target="_blank">https://github.com/tsleedev/TSCalendar</a>
+- 확인경로: [https://github.com/tsleedev/TSCalendar](https://github.com/tsleedev/TSCalendar)
 
 ### 커스텀 달력 (2018.04)
 - 소개: 달력을 커스텀해서 사용하기 위해 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSCalendar2" target="_blank">https://github.com/tsleedev/TSCalendar2</a>
+- 확인경로: [https://github.com/tsleedev/TSCalendar2](https://github.com/tsleedev/TSCalendar2)
 
 ### 로컬 알림 관리 (2021.06)
 - 소개: 로컬 알림 개수 제한(64개)을 최대로 활용하기 위해 가장 빠른 일정의 알림 등록을 도와주기 위해 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSUserNotifications" target="_blank">https://github.com/tsleedev/TSUserNotifications</a>
+- 확인경로: [https://github.com/tsleedev/TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)
 
 ### WKWebView 쿠키 관리 (2021.07)
 - 소개: WKWebview는 쿠키를 직접 관리해야해서 쿠키 관리 및 Javascript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSWebView" target="_blank">https://github.com/tsleedev/TSWebView</a>
+- 확인경로: [https://github.com/tsleedev/TSWebView](https://github.com/tsleedev/TSWebView)
 
 ### 화면 전환 애니메이션 (2021.10)
 - 소개: 화면 전환 애니메이션을 사용하기 쉽게하기 위해 제작
-- 확인경로: <a href="https://github.com/tsleedev/TSPresentation" target="_blank">https://github.com/tsleedev/TSPresentation</a>
+- 확인경로: [https://github.com/tsleedev/TSPresentation](https://github.com/tsleedev/TSPresentation)
 
 ### 그 외 샘플과 데모 프로젝트를 꾸준히 작성 중
-- github: <a href="https://github.com/tsleedev?tab=repositories" target="_blank">https://github.com/tsleedev?tab=repositories</a>
+- github: [https://github.com/tsleedev?tab=repositories](https://github.com/tsleedev?tab=repositories)
 <br><br>
 
 ## 그 외 활동
@@ -251,7 +251,7 @@
     12. Firebase 활용하기 (2H)
     13. 배포 해보기 (2H)
     14. 초간단 웹앱 만들기 (10H)
-- [강의자료] <a href="https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료" target="_blank">https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료</a>
+- [강의자료](https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료)
 
 ### 오프라인 수강 
 - 프로젝트로 정복하는 RxJava 2기 (2019.09 ~ 2019.10)
@@ -259,12 +259,12 @@
 - Flutter로 구현하는 크로스플랫폼 앱 개발 1기 (2019.05 ~ 2019.06)
 - RxSwift로 완성하는 iOS 앱 개발 3기 (2018.07 ~ 2018.08)
 - Oracle DB 설계 & Java Modeling (SIST 쌍용교육센터, 2009.02 ~ 2009.08)
-- [과육과정 및 수료증] <a href="https://github.com/tsleedev/resume/tree/master/resources/수료증" target="_blank">https://github.com/tsleedev/resume/tree/master/resources/수료증</a>
+- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
 
 ### 온라인 수강
 - 앨런 iOS Concurrency(동시성) - 디스패치큐와 오퍼레이션큐의 이해 (2024.09)
 - The RED : 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 (2022.03)
-- [과육과정 및 수료증] <a href="https://github.com/tsleedev/resume/tree/master/resources/수료증" target="_blank">https://github.com/tsleedev/resume/tree/master/resources/수료증</a>
+- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
 
 ### 컨퍼런스
 - FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요 (2019.07.27)
@@ -280,7 +280,7 @@
 - 관련 기술: TodayExtension, EventKit, CloudKit, App Groups, RxSwift, Realm, 다국어지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
 - 성과: 스승의 날 기념 컨셉으로 피처링 선정 (2017.04)
-- 확인경로: <a href="https://apps.apple.com/kr/app/id1078875308" target="_blank">https://apps.apple.com/kr/app/id1078875308</a>
+- 확인경로: [https://apps.apple.com/kr/app/id1078875308](https://apps.apple.com/kr/app/id1078875308)
 
 ### 위젯 미리알림 (2017.01 ~ 2019.11)
 - 소개:
