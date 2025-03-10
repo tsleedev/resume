@@ -1,21 +1,23 @@
 # 이태수
 
+영문 버전(English Version)<br>
+https://github.com/tsleedev/resume/blob/master/README-EN.md
+
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
-안녕하세요. 2025년 현재로서 15년의 경력을 가진 iOS 개발자, 이태수입니다.<br>
-저의 전문성은 Objective-C와 Swift를 바탕으로, RxSwift 및 MVVM 패턴을 활용한 개발에 이르릅니다.<br>
-또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 첨단 기술을 활용하여 프로젝트를 진행한 경험이 있습니다.
+안녕하세요. 2025년 현재, 15년 경력의 iOS 개발자입니다.<br>
+Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuist를 활용한 모듈러 아키텍처 구축 등 다양한 경험을 보유하고 있습니다.<br>
 
-저는 다양한 직군의 팀원들과의 원활한 커뮤니케이션을 통해 업무 효율성과 앱의 품질 향상에 기여하는 것을 중요하게 생각합니다.<br>
-안드로이드 개발자, 디자이너, 그리고 기획자와의 협업에서는 서로에게 배울 점이 많다는 것을 깨달았습니다.
+저는 Objective-C와 Swift를 기반으로 한 개발에 강점을 가지고 있으며, RxSwift 및 MVVM 패턴을 활용한 앱 개발을 경험했습니다.<br>
+또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 최신 기술을 활용하여 프로젝트를 진행해 왔습니다.
 
-새로운 프로그래밍 언어와 패턴, 그리고 도구에 대한 학습에는 언제나 적극적입니다.<br>
-동료들과 함께 성장하는 것을 중요시하며, 이를 위해 스터디 모임에 적극적으로 참여합니다.
+협업과 소통을 통한 업무 효율성 및 앱 품질 향상을 중요하게 생각합니다.<br>
+안드로이드 개발자, 디자이너, 기획자 등 다양한 직군의 팀원들과 협업하면서 서로에게 배울 점이 많다는 것을 깨달았고, 이를 통해 더 나은 제품을 만들어 나가고 있습니다.
 
-저는 업무의 효율성을 극대화하고, 동료들을 배려하는 것이 중요하다고 생각합니다.<br>
-이러한 접근 방식은 제 오픈소스 활동 경험에도 반영되어 있습니다.<br>
-소통을 통한 개선과, 코드 리뷰를 통한 지속적인 학습을 통해 우수한 제품을 만들어 나가는 문화에 익숙합니다.
+새로운 프로그래밍 언어, 패턴, 도구 학습에 적극적이며, 동료들과 함께 성장하는 것을 중요하게 생각합니다.<br>
+이를 위해 스터디 모임에 적극 참여하며, 코드 리뷰와 지속적인 소통을 통해 제품의 품질을 개선하는 문화에 익숙합니다.<br>
+이러한 접근 방식은 오픈소스 활동에서도 반영되어 있으며, 다양한 프로젝트를 통해 지속적으로 발전하고 있습니다.
 
 ## 블로그
 - [https://velog.io/@tslee/posts](https://velog.io/@tslee/posts)
@@ -48,7 +50,7 @@
     - RxSwift 및 MVVM 패턴 도입
     - Composable Architecture 도입
     - FlexLayout, PinLayout 도입
-    - Tuist 및 Modular Architecture 도입으로 Preview 및 ExampleApp 활용
+    - Tuist와 Modular Architecture 도입 → Preview 및 ExampleApp 활용 최적화
     - 피그마를 활용한 Typography 및 Color Style 표준화
 - 다양한 기능 개발 및 관리:
     - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
