@@ -1,29 +1,19 @@
 # 이태수
 
-영문 버전(English Version)<br>
-https://github.com/tsleedev/resume/blob/master/README-EN.md
-
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
 안녕하세요. 2025년 현재, 15년 경력의 iOS 개발자입니다.<br>
-Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuist를 활용한 모듈러 아키텍처 구축 등 다양한 경험을 보유하고 있습니다.<br>
+Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuist를 활용한 모듈러 아키텍처 구축 등 다양한 기술을 실무에 적용해 왔습니다.<br>
 
-저는 Objective-C와 Swift를 기반으로 한 개발에 강점을 가지고 있으며, RxSwift 및 MVVM 패턴을 활용한 앱 개발을 경험했습니다.<br>
-또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 및 Modular Architecture 등의 최신 기술을 활용하여 프로젝트를 진행해 왔습니다.
+Swift와 Objective-C를 기반으로 한 앱 개발에 강점을 가지고 있으며, RxSwift와 MVVM 패턴을 활용한 구조적인 앱 개발 경험이 풍부합니다.<br>
+또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 기반의 Modular Architecture 등 최신 기술들을 실제 프로젝트에 적극적으로 활용해 왔습니다
 
 협업과 소통을 통한 업무 효율성 및 앱 품질 향상을 중요하게 생각합니다.<br>
-안드로이드 개발자, 디자이너, 기획자 등 다양한 직군의 팀원들과 협업하면서 서로에게 배울 점이 많다는 것을 깨달았고, 이를 통해 더 나은 제품을 만들어 나가고 있습니다.
+안드로이드 개발자, 디자이너, 기획자 등과 함께 일하면서 서로의 관점을 조율하고, 완성도 높은 결과물을 함께 만들어 가고 있습니다.
 
-새로운 프로그래밍 언어, 패턴, 도구 학습에 적극적이며, 동료들과 함께 성장하는 것을 중요하게 생각합니다.<br>
-이를 위해 스터디 모임에 적극 참여하며, 코드 리뷰와 지속적인 소통을 통해 제품의 품질을 개선하는 문화에 익숙합니다.<br>
-이러한 접근 방식은 오픈소스 활동에서도 반영되어 있으며, 다양한 프로젝트를 통해 지속적으로 발전하고 있습니다.
-
-## 블로그
-- [https://velog.io/@tslee/posts](https://velog.io/@tslee/posts)
-
-## 취미
-- 토이 프로젝트 개발, 넷플릭스, 웹툰, 수영, 아이들이랑 놀기
+새로운 언어나 개발 도구, 아키텍처에 대한 학습에 항상 열려 있으며, 동료들과 함께 성장하는 문화를 추구합니다.<br>
+스터디 모임 참여, 코드 리뷰, 활발한 커뮤니케이션을 통해 개발 문화를 개선해 나가고 있고, 이러한 경험은 오픈소스 활동으로도 이어지며 다양한 프로젝트에서 계속 발전하고 있습니다.
 
 ## 학력
 - 동국대학교 - 컴퓨터공학과 전공 (2000년 3월 ~ 2007년 8월)
@@ -41,7 +31,7 @@ Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuis
 ### 핀크 (2020년 4월 ~ )
 - 기술 전환 및 코드 품질 관리:
     - Objective-C > Swift 전환
-    - AFNetwork > Alamofire 전환
+    - AFNetworking > Alamofire 전환
     - SwiftLint 및 SwiftGen 적용
     - 테스트 코드를 작성하여 앱의 안정성과 신뢰성 강화
     - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질 향상
@@ -58,7 +48,7 @@ Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuis
 ### 사람인HR (2013년 11월 ~ 2020년 3월, 6년 5개월)
 - 기술 전환 및 코드 품질 관리:
     - Objective-C > Swift 전환
-    - AFNetwork > Alamofire 전환
+    - AFNetworking > Alamofire 전환
     - UIWebView > WKWebView 전환
 - 아키텍처 혁신 및 표준화:
     - RxSwift 및 MVVM 패턴 도입
@@ -76,7 +66,7 @@ Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuis
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 35%)
     - objective-c > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
-    - AFNetwork -> Alamofire 전환 (기여도 80%)
+    - AFNetworking -> Alamofire 전환 (기여도 80%)
     - SwiftLint, SwiftGen 적용 (기여도 100%)
     - 피그마의 Typograhy 및 Color Style화 (기여도 100%)
     - Composable Architecture 도입 (기여도 100%)
@@ -261,12 +251,12 @@ Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuis
 - Flutter로 구현하는 크로스플랫폼 앱 개발 1기 (2019.05 ~ 2019.06)
 - RxSwift로 완성하는 iOS 앱 개발 3기 (2018.07 ~ 2018.08)
 - Oracle DB 설계 & Java Modeling (SIST 쌍용교육센터, 2009.02 ~ 2009.08)
-- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
+- [교육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
 
 ### 온라인 수강
 - 앨런 iOS Concurrency(동시성) - 디스패치큐와 오퍼레이션큐의 이해 (2024.09)
 - The RED : 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 (2022.03)
-- [과육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
+- [교육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
 
 ### 컨퍼런스
 - FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요 (2019.07.27)
