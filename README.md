@@ -7,7 +7,7 @@
 Objective-C에서 Swift로의 전환, RxSwift 및 MVVM 아키텍처 도입, Tuist를 활용한 모듈러 아키텍처 구축 등 다양한 기술을 실무에 적용해 왔습니다.<br>
 
 Swift와 Objective-C를 기반으로 한 앱 개발에 강점을 가지고 있으며, RxSwift와 MVVM 패턴을 활용한 구조적인 앱 개발 경험이 풍부합니다.<br>
-또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 기반의 Modular Architecture 등 최신 기술들을 실제 프로젝트에 적극적으로 활용해 왔습니다
+또한, FlexLayout, PinLayout, SwiftUI, Clean Architecture, Coordinator(RxFlow), Composable Architecture, Tuist 기반의 Microfeatures Architecture 등 최신 기술들을 실제 프로젝트에 적극적으로 활용해 왔습니다
 
 협업과 소통을 통한 업무 효율성 및 앱 품질 향상을 중요하게 생각합니다.<br>
 안드로이드 개발자, 디자이너, 기획자 등과 함께 일하면서 서로의 관점을 조율하고, 완성도 높은 결과물을 함께 만들어 가고 있습니다.
@@ -40,7 +40,7 @@ Swift와 Objective-C를 기반으로 한 앱 개발에 강점을 가지고 있�
     - RxSwift 및 MVVM 패턴 도입
     - Composable Architecture 도입
     - FlexLayout, PinLayout 도입
-    - Tuist와 Modular Architecture 도입 → Preview 및 ExampleApp 활용 최적화
+    - Tuist와 Microfeatures Architecture 도입 → Preview 및 ExampleApp 활용 최적화
     - 피그마를 활용한 Typography 및 Color Style 표준화
 - 다양한 기능 개발 및 관리:
     - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
@@ -70,7 +70,7 @@ Swift와 Objective-C를 기반으로 한 앱 개발에 강점을 가지고 있�
     - SwiftLint, SwiftGen 적용 (기여도 100%)
     - 피그마의 Typograhy 및 Color Style화 (기여도 100%)
     - Composable Architecture 도입 (기여도 100%)
-    - Tuist 및 Modular Architecture 도입 (기여도 100%)
+    - Tuist 및 Microfeatures Architecture 도입 (기여도 100%)
     - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등 담당
     - 테스트 코드를 작성하여 앱의 안정성과 신뢰성을 강화
     - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질을 향상
