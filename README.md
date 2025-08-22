@@ -3,7 +3,7 @@
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
-안녕하세요. iOS 개발자 이태수입니다.
+안녕하세요. iOS 개발자 이태수입니다.<br>
 프로젝트 규모와 팀 상황에 맞는 **실용적 아키텍처 설계와 팀 기여**에 집중해 왔습니다.
 
 * **사람인HR**
