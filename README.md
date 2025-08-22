@@ -1,6 +1,6 @@
 # 이태수
 
-> 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
+> 본 이력서는 아래 주소에서 최신 업데이트본을 확인할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
 안녕하세요. iOS 개발자 이태수입니다.
@@ -9,9 +9,9 @@
 그 과정에서 Tuist 기반의 Microfeatures 아키텍처를 도입하여 기능 단위 테스트를 가능하게 했고,
 이를 통해 테스트 속도 약 30% 향상, 개발 생산성과 유지보수 효율 개선이라는 실질적인 성과를 이끌어냈습니다.
 
-또한 구조 설계 결과를 문서화하고 팀 세미나를 통해 공유함으로써, 구조를 팀의 표준으로 내재화하는 데 기여했습니다.
+또한 구조 설계 결과를 문서화하고 팀 세미나를 통해 공유함으로써, 아키텍처를 팀의 표준으로 내재화하는 데 기여했습니다.
 
-새로운 기술을 검토하고, 팀에 맞는 방향으로 안정적이고 확장 가능한 앱을 만드는 것을 중요하게 생각합니다.<br>
+새로운 기술을 적극적으로 검토하고, 팀에 맞는 방향으로 안정적이고 확장 가능한 앱을 만드는 것을 중요하게 생각합니다.<br>
 감사합니다.
 
 ## 학력
@@ -44,16 +44,16 @@
 - 다양한 기능 개발 및 관리:
     - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
 
-### 사람인HR (2013년 11월 ~ 2020년 3월, 6년 5개월)
+### 사람인HR (2013년 11월 ~ 2020년 3월)
 - 기술 전환 및 코드 품질 관리:
     - Objective-C > Swift 전환
     - AFNetworking > Alamofire 전환
     - UIWebView > WKWebView 전환
 - 아키텍처 혁신 및 표준화:
     - RxSwift 및 MVVM 패턴 도입
-    - Javascript Bridge 모듈화 및 가이드
+    - JavaScript Bridge 모듈화 및 가이드
 
-### 플레타뮤토 (2009년 10월 ~ 2013년 7월, 3년 10개월)
+### 플레타뮤토 (2009년 10월 ~ 2013년 7월)
 - Objective-C로 앱 개발 및 유지 보수
 - CoreData 사용
 <br><br>
@@ -63,9 +63,9 @@
 - 소개: 무료 송금, 마이데이터 서비스
 - 관련 기술: RxSwift, Storyboard, Auto Layout, SnapKit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 35%)
+    - iOS 설계, 개발, 유지보수 (기여도 35%)
     - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
-    - AFNetworking -> Alamofire 전환 (기여도 80%)
+    - AFNetworking > Alamofire 전환 (기여도 80%)
     - SwiftLint, SwiftGen 적용 (기여도 100%)
     - 피그마의 Typography 및 Color Style 표준화 (기여도 100%)
     - Composable Architecture 도입 (기여도 100%)
@@ -79,23 +79,23 @@
 
 ## 프로젝트 (사람인)
 ### 아이엠그라운드 (2019.06 ~ 2020.03)
-- 소개: 모의면접 AI 분석 서비스 (인적성 적성검사, 면접 질문에 대해 답변을 녹화 후 AWS에서 분석)
+- 소개: 모의면접 AI 분석 서비스 (인적성 검사, 면접 질문에 대한 답변을 녹화 후 AWS에서 분석)
 - 관련 기술: RxSwift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 동영상 촬영, AWS S3, 인앱 결제, Dynamic Link 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 100%)
-    - RxSwift MVVM 방식으로 앱 개발 및 유지 보수 (기여도 100%)
+    - iOS 설계, 개발, 유지보수 (기여도 100%)
+    - RxSwift MVVM 패턴으로 앱 개발 및 유지보수 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id1472955601](https://apps.apple.com/app/id1472955601)
 
 ### 사람인 (2013.11 ~ 2020.03)
-- 소개: 구인구직 포털 대표 모바일 앱 (공고 검색, 입사지원)
+- 소개: 구인구직 포털 대표 모바일 앱 (채용공고 검색, 입사지원)
 - 관련 기술: RxSwift, TodayExtension, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화, 3D Touch, 소셜로그인(Naver, Facebook, Google, Kakao), Dynamic Link, AdMob 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 100%)
+    - iOS 설계, 개발, 유지보수 (기여도 100%)
     - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 100%)
-    - UIWebView > WKWebView 전환 > Javascript Bridge 모듈화 및 가이드 (기여도 100%)
+    - UIWebView > WKWebView 전환 > JavaScript Bridge 모듈화 및 가이드 (기여도 100%)
 - 경험 & 성장한 점:
     - 일정 조율 및 프로젝트 관리 등을 맡아서 진행한 경험
-    - 잦은 웹과 앱의 연동 요청으로 Javascript Bridge 모듈화 및 가이드화해 세미나를 통해 전파한 경험
+    - 잦은 웹과 앱의 연동 요청으로 JavaScript Bridge 모듈화 및 가이드 작성 후 세미나를 통해 전파한 경험
     - 3D Touch, 이미지 푸시(Notification Service Extension), TodayExtension 등 새로운 기술을 적용 건의해 추가한 경험
     - Notification Service Extension을 활용해서 알림 수신 확인 통계를 건의해 추가한 경험
     - Google Analytics, Firebase, Fabric 등을 활용한 통계, Crash 수집 등을 통해 서비스 안정화에 기여함
@@ -103,18 +103,18 @@
 - 확인경로: [https://apps.apple.com/app/id739013038](https://apps.apple.com/app/id739013038)
 
 ### 연봉계산기 (2013.11 ~ 2020.03)
-- 소개: 연봉으로 한달 수령액을 계산해 주는 앱
+- 소개: 연봉으로 월 실수령액을 계산해주는 앱
 - 관련 기술: Storyboard, Auto Layout, REST API, SHA512 암호화 등
 - 역할:
-    - iOS 개발 유지 보수 (기여도 100%) 
+    - iOS 개발, 유지보수 (기여도 100%) 
     - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221)
 
 ### 맞춤취업사람인 (2013.11 ~ 2018.09)
-- 소개: 사용자의 설정에 맞춰 공고를 보여주는 앱
+- 소개: 사용자의 설정에 맞춰 채용공고를 보여주는 앱
 - 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화 등
 - 역할:
-    - iOS 개발 유지 보수 (기여도 100%) 
+    - iOS 개발, 유지보수 (기여도 100%) 
     - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: 서비스 종료
 
@@ -122,18 +122,18 @@
 - 소개: 공채를 준비하는 타겟을 위한 공채 정보 전달 앱
 - 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화 등
 - 역할:
-    - iOS 개발 유지 보수 (기여도 100%) 
+    - iOS 개발, 유지보수 (기여도 100%) 
     - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: 서비스 종료
 
 ### 권역/버티컬 (2013.11 ~ 2016.12)
-- 소개: 지역별(4종) 업종별(13종)로 채용 공고를 보여주는 앱
+- 소개: 지역별(4종) 업종별(13종)로 채용공고를 보여주는 앱
 - 관련 기술: Storyboard, Auto Layout, REST API, Google Map등
 - 역할:
     - Objective-C > Swift로 전환 (기여도 100%)
 - 경험 & 성장한 점:
-    - 같은 컨셉의 앱을 더 출시 했다가 스팸이라고 앱 리젝당한 경험
-    - 같은 소스에 타켓만 나눠서 관리한 경험
+    - 같은 컨셉의 앱을 추가 출시했다가 스팸으로 판단되어 리젝당한 경험
+    - 같은 소스코드로 타켓만 분리하여 관리한 경험
 - 확인경로: 서비스 종료
 
 ### 거기어때 (2013.11 ~ 2015.06)
@@ -143,35 +143,35 @@
 - 확인경로: 서비스 종료
 
 ### 오투잡 (2016.04 ~ 2020.03)
-- 소개: 투잡 포털 오투잡의 대표 모바일 앱 개발
+- 소개: 투잡 포털 오투잡의 대표 모바일 앱
 - 관련 기술: 이니시스 결제 모듈 연동, Swift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 소셜로그인(Naver, Google, Facebook, Kakao), 파일 업/다운로드 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 100%)
+    - iOS 설계, 개발, 유지보수 (기여도 100%)
     - Objective-C > Swift로 전환 (기여도 100%)
     - UIWebView > WKWebView 전환 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id1093727086](https://apps.apple.com/app/id1093727086)
 
 ### 맞춤알바 (2013.11 ~ 2016.04)
-- 소개: 사용자의 설정에 맞춰 알바 공고를 보여주는 앱
+- 소개: 사용자의 설정에 맞춰 알바공고를 보여주는 앱
 - 관련 기술: Storyboard, Auto Layout, APNS, REST API 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 50%)
+    - iOS 설계, 개발, 유지보수 (기여도 50%)
     - Objective-C > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
 
 ### 쉽고빠른알바인 (2013.11 ~ 2016.04)
-- 소개: 위치를 기반으로 알바 공고를 보여주는 앱. 구인공고를 앱에서 바로 올릴 수 있음
+- 소개: 위치 기반으로 알바공고를 보여주는 앱 (구인공고를 앱에서 바로 등록 가능)
 - 관련 기술: Storyboard, Auto Layout, APNS, REST API, Google Map 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 50%)
+    - iOS 설계, 개발, 유지보수 (기여도 50%)
     - Objective-C > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
 
 ### 알바네비 (2013.11 ~ 2016.04)
-- 소개: 내 주변 일자리 정보 제공 지역기반 커뮤니티 앱
+- 소개: 내 주변 일자리 정보 제공 지역 기반 커뮤니티 앱
 - 관련 기술: Storyboard, Auto Layout, REST API, Facebook연동 등
 - 역할:
-    - iOS 설계 개발 유지 보수 (기여도 50%)
+    - iOS 설계, 개발, 유지보수 (기여도 50%)
     - Objective-C > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
 <br><br>
@@ -182,22 +182,22 @@
 - 관련 기술: Xib, 연락처 동기화(AddressBook.framework), 멀티 이미지 전송(AssetsLibrary.framework), CoreData 등
 - 역할: iOS 개발 및 기능 업데이트 (친구 목록 관리)
 - 경험 & 성장한 점:
-    - 실무에서 첫 iOS 프로젝트로 여러 사람과 협업하는 것을 배움
+    - 실무에서 첫 iOS 프로젝트로 여러 사람과 협업하는 방법을 배움
     - iOS의 배포 프로세스 및 인증서 관리 등을 경험
 - 확인경로: 서비스 종료
 
-### 3G 모델 미주향
-- 소개: 3G 단말기를 AT&T, TMO, Tracfone 등 사업자 향에 맞춤
-- 역할: 사업자 특성에 맞춰 메뉴 및 UI 변경 및 필드에서 이슈 대응
+### 3G 모델 미주 향
+- 소개: 3G 단말기를 AT&T, TMO, Tracfone 등 사업자별로 맞춤화
+- 역할: 사업자 특성에 맞춰 메뉴 및 UI 변경, 필드 이슈 대응
 <br><br>
 
 ## 오픈 소스 개발
 ### 토스트 관리 (2024.06)
-- 소개: 토스트를 편하게 사용하기 위해 제작
+- 소개: 토스트 메시지를 편리하게 사용하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSToast](https://github.com/tsleedev/TSToast)
 
 ### 광고 관리 (2023.07)
-- 소개: AdMob과 AdManager를 편하게 사용하기 위해 제작
+- 소개: AdMob과 AdManager를 편리하게 사용하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSAdView](https://github.com/tsleedev/TSAdView)
 
 ### SwiftUI 커스텀 달력 (2025.01)
@@ -205,15 +205,15 @@
 - 확인경로: [https://github.com/tsleedev/TSCalendar](https://github.com/tsleedev/TSCalendar)
 
 ### 커스텀 달력 (2018.04)
-- 소개: 달력을 커스텀해서 사용하기 위해 제작
+- 소개: 달력을 커스터마이징하여 사용하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSCalendar2](https://github.com/tsleedev/TSCalendar2)
 
 ### 로컬 알림 관리 (2021.06)
-- 소개: 로컬 알림 개수 제한(64개)을 최대로 활용하기 위해 가장 빠른 일정의 알림 등록을 도와주기 위해 제작
+- 소개: 로컬 알림 개수 제한(64개)을 최대로 활용하기 위해 가장 빠른 일정의 알림을 효율적으로 등록하도록 도와주기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)
 
 ### WKWebView 쿠키 관리 (2021.07)
-- 소개: WKWebView는 쿠키를 직접 관리해야 해서 쿠키 관리 및 Javascript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
+- 소개: WKWebView는 쿠키를 직접 관리해야 해서 쿠키 관리 및 JavaScript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSWebView](https://github.com/tsleedev/TSWebView)
 
 ### 화면 전환 애니메이션 (2021.10)
