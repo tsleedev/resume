@@ -27,7 +27,7 @@
 - 해외출장 (미국 댈러스, 2012.03 ~ 2012.04)
 
 ## 경력
-### 핀크 (2020년 4월 ~ )
+### 핀크 (2020년 4월 ~ 현재)
 - 기술 전환 및 코드 품질 관리:
     - Objective-C > Swift 전환
     - AFNetworking > Alamofire 전환
@@ -59,9 +59,9 @@
 <br><br>
 
 ## 프로젝트 (핀크)
-### 핀크 (2020.04 ~ )
+### 핀크 (2020.04 ~ 현재)
 - 소개: 무료 송금, 마이데이터 서비스
-- 관련 기술: RxSwift, Storyboard, Auto Layout, Snapkit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen 등
+- 관련 기술: RxSwift, Storyboard, Auto Layout, SnapKit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 35%)
     - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
