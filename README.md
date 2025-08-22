@@ -3,7 +3,7 @@
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
-안녕하세요. 15년 경력의 iOS 개발자 이태수입니다.
+안녕하세요. iOS 개발자 이태수입니다.
 
 프로젝트의 규모와 팀의 상황에 맞는 실용적인 아키텍처를 고민하고 도입하는 데 집중해 왔습니다.<br>
 그 과정에서 Tuist 기반의 Microfeatures 아키텍처를 도입하여 기능 단위 테스트를 가능하게 했고,
@@ -11,7 +11,7 @@
 
 또한 구조 설계 결과를 문서화하고 팀 세미나를 통해 공유함으로써, 구조를 팀의 표준으로 내재화하는 데 기여했습니다.
 
-새로운 기술을 검토하고, 팀에 맞는 방향으로 안정적이고 확장 가능한 앱을 만드는 것을 가장 중요하게 생각합니다.<br>
+새로운 기술을 검토하고, 팀에 맞는 방향으로 안정적이고 확장 가능한 앱을 만드는 것을 중요하게 생각합니다.<br>
 감사합니다.
 
 ## 학력
@@ -54,7 +54,7 @@
     - Javascript Bridge 모듈화 및 가이드
 
 ### 플레타뮤토 (2009년 10월 ~ 2013년 7월, 3년 10개월)
-- objective-c로 앱 개발 및 유지 보수
+- Objective-C로 앱 개발 및 유지 보수
 - CoreData 사용
 <br><br>
 
@@ -64,10 +64,10 @@
 - 관련 기술: RxSwift, Storyboard, Auto Layout, Snapkit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 35%)
-    - objective-c > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
+    - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
     - AFNetworking -> Alamofire 전환 (기여도 80%)
     - SwiftLint, SwiftGen 적용 (기여도 100%)
-    - 피그마의 Typograhy 및 Color Style화 (기여도 100%)
+    - 피그마의 Typography 및 Color Style 표준화 (기여도 100%)
     - Composable Architecture 도입 (기여도 100%)
     - Tuist 및 Microfeatures Architecture 도입 (기여도 100%)
     - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등 담당
@@ -91,7 +91,7 @@
 - 관련 기술: RxSwift, TodayExtension, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화, 3D Touch, 소셜로그인(Naver, Facebook, Google, Kakao), Dynamic Link, AdMob 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 100%)
-    - objective-c > Swift로 전환 > RxSwift MVVM 도입 (기여도 100%)
+    - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 100%)
     - UIWebView > WKWebView 전환 > Javascript Bridge 모듈화 및 가이드 (기여도 100%)
 - 경험 & 성장한 점:
     - 일정 조율 및 프로젝트 관리 등을 맡아서 진행한 경험
@@ -107,15 +107,15 @@
 - 관련 기술: Storyboard, Auto Layout, REST API, SHA512 암호화 등
 - 역할:
     - iOS 개발 유지 보수 (기여도 100%) 
-    - objective-c > Swift로 전환 (기여도 100%)
+    - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221)
 
-### 맞춤취업사람인 (2013.11 ~ 2018. 09)
+### 맞춤취업사람인 (2013.11 ~ 2018.09)
 - 소개: 사용자의 설정에 맞춰 공고를 보여주는 앱
 - 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화 등
 - 역할:
     - iOS 개발 유지 보수 (기여도 100%) 
-    - objective-c > Swift로 전환 (기여도 100%)
+    - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: 서비스 종료
 
 ### 공채의명가 (2013.11 ~ 2018.02)
@@ -123,32 +123,31 @@
 - 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화 등
 - 역할:
     - iOS 개발 유지 보수 (기여도 100%) 
-    - objective-c > Swift로 전환 (기여도 100%)
+    - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: 서비스 종료
 
 ### 권역/버티컬 (2013.11 ~ 2016.12)
 - 소개: 지역별(4종) 업종별(13종)로 채용 공고를 보여주는 앱
 - 관련 기술: Storyboard, Auto Layout, REST API, Google Map등
 - 역할:
-    - objective-c > Swift로 전환 (기여도 100%)
+    - Objective-C > Swift로 전환 (기여도 100%)
 - 경험 & 성장한 점:
     - 같은 컨셉의 앱을 더 출시 했다가 스팸이라고 앱 리젝당한 경험
     - 같은 소스에 타켓만 나눠서 관리한 경험
 - 확인경로: 서비스 종료
 
-### 거기어때 (2013.11 ~2015.06)
-- 소개: 페이스북 친구들의 다니는 회사를 보여주며 회사에 대해 문의하는 앱
-  지원하기 위한 API 서버.
+### 거기어때 (2013.11 ~ 2015.06)
+- 소개: 페이스북 친구들이 다니는 회사를 보여주며 회사에 대해 문의하는 앱
 - 관련 기술: Storyboard, Auto Layout, REST API, Facebook연동 등
 - 역할: iOS 개발 및 기능 업데이트
 - 확인경로: 서비스 종료
 
 ### 오투잡 (2016.04 ~ 2020.03)
 - 소개: 투잡 포털 오투잡의 대표 모바일 앱 개발
-- 관련 기술: 이니시스 결제 모듈 연동, Swift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 쇼셜로그인(Naver, Google, Facebook, Kakao), 파일 업/다운로드 등
+- 관련 기술: 이니시스 결제 모듈 연동, Swift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 소셜로그인(Naver, Google, Facebook, Kakao), 파일 업/다운로드 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 100%)
-    - objective-c > Swift로 전환 (기여도 100%)
+    - Objective-C > Swift로 전환 (기여도 100%)
     - UIWebView > WKWebView 전환 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id1093727086](https://apps.apple.com/app/id1093727086)
 
@@ -157,7 +156,7 @@
 - 관련 기술: Storyboard, Auto Layout, APNS, REST API 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 50%)
-    - objective-c > Swift로 전환 (기여도 50%)
+    - Objective-C > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
 
 ### 쉽고빠른알바인 (2013.11 ~ 2016.04)
@@ -165,7 +164,7 @@
 - 관련 기술: Storyboard, Auto Layout, APNS, REST API, Google Map 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 50%)
-    - objective-c > Swift로 전환 (기여도 50%)
+    - Objective-C > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
 
 ### 알바네비 (2013.11 ~ 2016.04)
@@ -173,14 +172,14 @@
 - 관련 기술: Storyboard, Auto Layout, REST API, Facebook연동 등
 - 역할:
     - iOS 설계 개발 유지 보수 (기여도 50%)
-    - objective-c > Swift로 전환 (기여도 50%)
+    - Objective-C > Swift로 전환 (기여도 50%)
 - 확인경로: 서비스 종료
 <br><br>
 
 ## 프로젝트 (플레타뮤토)
 ### iOS ChatON (챗온)
 - 소개: 삼성 채팅 앱
-- 관련 기술: Xib, 연락처 동기화(AddressBook.framework), 멀티 이미지 전송(AssetsLibray.framework), CoreData 등
+- 관련 기술: Xib, 연락처 동기화(AddressBook.framework), 멀티 이미지 전송(AssetsLibrary.framework), CoreData 등
 - 역할: iOS 개발 및 기능 업데이트 (친구 목록 관리)
 - 경험 & 성장한 점:
     - 실무에서 첫 iOS 프로젝트로 여러 사람과 협업하는 것을 배움
@@ -202,7 +201,7 @@
 - 확인경로: [https://github.com/tsleedev/TSAdView](https://github.com/tsleedev/TSAdView)
 
 ### SwiftUI 커스텀 달력 (2025.01)
-- 소개: Widget Extension에서 순수 SwiftUI만 사용가능해 SwiftUI로 달력 제작
+- 소개: Widget Extension에서 순수 SwiftUI만 사용 가능해 SwiftUI로 달력 제작
 - 확인경로: [https://github.com/tsleedev/TSCalendar](https://github.com/tsleedev/TSCalendar)
 
 ### 커스텀 달력 (2018.04)
@@ -214,11 +213,11 @@
 - 확인경로: [https://github.com/tsleedev/TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)
 
 ### WKWebView 쿠키 관리 (2021.07)
-- 소개: WKWebview는 쿠키를 직접 관리해야해서 쿠키 관리 및 Javascript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
+- 소개: WKWebView는 쿠키를 직접 관리해야 해서 쿠키 관리 및 Javascript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSWebView](https://github.com/tsleedev/TSWebView)
 
 ### 화면 전환 애니메이션 (2021.10)
-- 소개: 화면 전환 애니메이션을 사용하기 쉽게하기 위해 제작
+- 소개: 화면 전환 애니메이션을 사용하기 쉽게 하기 위해 제작
 - 확인경로: [https://github.com/tsleedev/TSPresentation](https://github.com/tsleedev/TSPresentation)
 
 ### 그 외 샘플과 데모 프로젝트를 꾸준히 작성 중
@@ -258,8 +257,8 @@
 - [교육과정 및 수료증](https://github.com/tsleedev/resume/tree/master/resources/수료증)
 
 ### 컨퍼런스
-- FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요 (2019.07.27)
-- 네이버 DEVIEW 2017, 2018
+- FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요" (2019.07.27)
+- NAVER DEVIEW 2017, 2018
 - AWS Summit Seoul 2017
 <br><br>
 
@@ -276,7 +275,7 @@
 ### 위젯 미리알림 (2017.01 ~ 2019.11)
 - 소개:
     - TodayExtension을 활용한 위젯 미리알림
-    - 기본 미리 알림의 데이터를 가져와서 위젯에서 사용하기 편하게 만듬
+    - 기본 미리 알림의 데이터를 가져와서 위젯에서 사용하기 편하게 만듦
 - 관련 기술: TodayExtension, EventKit, App Groups, 다국어지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
 - 확인경로: 서비스 종료
@@ -287,10 +286,10 @@
 - 소개:
     - 첫 화면에서 간단하게 자신만의 배경 선택 및 오늘 수업 시간표 제공
     - 두 번째 화면에서 전체 수업 시간표 제공
-- 관련 기술: Coredata, 다국어지원, GoogleAnalytics
+- 관련 기술: CoreData, 다국어지원, GoogleAnalytics
 - 역할:
     - 기획 및 운영 (기여도 30%)
-    - iOS개발 (기여도 100%)
+    - iOS 개발 (기여도 100%)
 - 성과: AppStore에서 4만명 이상 다운로드 (고등학생, 대학생 버전 등록)
 - 확인경로: 서비스 종료
 
@@ -298,14 +297,14 @@
 - 소개: 습관 관리 앱
 - 역할:
     - 기획 및 운영 (기여도 30%)
-    - iOS개발 (기여도 100%)
-- 관련 기술: Coredata, 다국어지원, GoogleAnalytics
+    - iOS 개발 (기여도 100%)
+- 관련 기술: CoreData, 다국어지원, GoogleAnalytics
 - 성과: 미국 스토어에 피처링 선정 (2013.12)
 - 확인경로: 서비스 종료
 
 ### MindMap (2014.09)
 - 소개: MIND TREE를 이용하여 마이드 맵핑, 생각정리, 업무정리
-- 관련 기술: Coredata, 다국어지원, GoogleAnalytics
+- 관련 기술: CoreData, 다국어지원, GoogleAnalytics
 - 역할: 기획, 개발, 운영 모든 부분을 20% 기여
 - 확인경로: 서비스 종료
 <br><br>
