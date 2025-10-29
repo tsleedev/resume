@@ -1,9 +1,5 @@
 # 이태수
 
-Phone: 010-4635-6536<br>
-Email: tslee.dev@gmail.com<br>
-GitHub: https://github.com/tsleedev
-
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
 
@@ -48,6 +44,7 @@ GitHub: https://github.com/tsleedev
     - 테스트 코드를 작성하여 앱의 안정성과 신뢰성 강화
     - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질 향상
     - 팀 세미나를 주최하여 최신 기술 동향 및 모범 사례 공유
+    - GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 시스템 도입
 - 아키텍처 혁신 및 표준화:
     - RxSwift 및 MVVM 패턴 도입
     - Composable Architecture 도입
@@ -73,20 +70,28 @@ GitHub: https://github.com/tsleedev
 
 ## 프로젝트 (핀크)
 ### 핀크 (2020.04 ~ 현재)
-- 소개: 무료 송금, 마이데이터 서비스
-- 관련 기술: RxSwift, Storyboard, Auto Layout, SnapKit, WKWebView, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen 등
-- 역할:
-    - iOS 설계, 개발, 유지보수 (기여도 35%)
-    - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 80%)
-    - AFNetworking > Alamofire 전환 (기여도 80%)
-    - SwiftLint, SwiftGen 적용 (기여도 100%)
-    - 피그마의 Typography 및 Color Style 표준화 (기여도 100%)
-    - Composable Architecture 도입 (기여도 100%)
-    - Tuist 및 Microfeatures Architecture 도입 (기여도 100%)
-    - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등 담당
-    - 테스트 코드를 작성하여 앱의 안정성과 신뢰성을 강화
-    - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질을 향상
-    - 팀 세미나를 주최하여 최신 기술 동향 및 모범 사례를 공유
+- 소개: 대출, 투자, 마이데이터 서비스
+- 관련 기술: RxSwift, Tuist, Storyboard, Auto Layout, SnapKit, FlexLayout, PinLayout, WKWebView, Alamofire, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen, Fastlane, GitLab CI/CD, Figma 등
+- 역할 & 성과:
+    - **담당 업무**:
+        - iOS 설계, 개발, 유지보수 (기여도 35%)
+        - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
+    - **기술 개선**:
+        - Objective-C > Swift로 전환 > RxSwift MVVM 도입 → 코드 가독성 및 유지보수성 향상 (기여도 80%)
+        - AFNetworking > Alamofire 전환 → 네트워크 레이어 현대화 (기여도 80%)
+        - SwiftLint, SwiftGen 적용 → 코드 품질 일관성 확보 (기여도 100%)
+        - 피그마의 Typography 및 Color Style 표준화 → 디자이너 협업 효율 강화 (기여도 100%)
+        - Composable Architecture 도입 → 단방향 데이터 플로우 및 테스트 가능한 구조 확립 (기여도 100%)
+        - Tuist 및 Microfeatures Architecture 도입 → 빌드 시간 단축, 개발 속도 향상, 테스트 용이성 향상, 병렬 개발 가능 (기여도 100%)
+        - 테스트 코드 작성 → 앱 안정성 및 신뢰성 강화
+        - GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 시스템 도입 → 리뷰 품질 일관성 및 팀 생산성 향상
+        - 정기적인 코드 리뷰 → 팀 전체 코드 품질 향상
+        - 팀 세미나 주최 → 최신 기술 동향 및 모범 사례 공유
+- 경험 & 성장한 점:
+    - 레거시 전환 프로젝트를 주도하며 점진적 마이그레이션 전략 수립 능력 습득
+    - 팀 세미나와 코드 리뷰 문화를 정착시키며 기술 리더십 역량 강화
+    - 모듈화 아키텍처 설계 및 의존성 최적화를 통해 대규모 프로젝트 빌드 시스템 개선 경험
+    - 새로운 아키텍처 및 개발 패러다임 도입을 통해 팀 전체의 개발 워크플로우 개선 경험
 - 확인경로: [https://apps.apple.com/app/id1260871482](https://apps.apple.com/app/id1260871482)
 <br><br>
 
@@ -101,7 +106,7 @@ GitHub: https://github.com/tsleedev
 
 ### 사람인 (2013.11 ~ 2020.03)
 - 소개: 구인구직 포털 대표 모바일 앱 (채용공고 검색, 입사지원)
-- 관련 기술: RxSwift, TodayExtension, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화, 3D Touch, 소셜로그인(Naver, Facebook, Google, Kakao), Dynamic Link, AdMob 등
+- 관련 기술: RxSwift, TodayExtension, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화, 3D Touch, 소셜로그인(Naver, Facebook, Google, Kakao), Dynamic Link, AdMob 등
 - 역할:
     - iOS 설계, 개발, 유지보수 (기여도 100%)
     - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 100%)
@@ -119,29 +124,29 @@ GitHub: https://github.com/tsleedev
 - 소개: 연봉으로 월 실수령액을 계산해주는 앱
 - 관련 기술: Storyboard, Auto Layout, REST API, SHA512 암호화 등
 - 역할:
-    - iOS 개발, 유지보수 (기여도 100%) 
+    - iOS 개발, 유지보수 (기여도 100%)
     - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221)
 
 ### 맞춤취업사람인 (2013.11 ~ 2018.09)
 - 소개: 사용자의 설정에 맞춰 채용공고를 보여주는 앱
-- 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화 등
+- 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화 등
 - 역할:
-    - iOS 개발, 유지보수 (기여도 100%) 
+    - iOS 개발, 유지보수 (기여도 100%)
     - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: 서비스 종료
 
 ### 공채의명가 (2013.11 ~ 2018.02)
 - 소개: 공채를 준비하는 타겟을 위한 공채 정보 전달 앱
-- 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256암호화 등
+- 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화 등
 - 역할:
-    - iOS 개발, 유지보수 (기여도 100%) 
+    - iOS 개발, 유지보수 (기여도 100%)
     - Objective-C > Swift로 전환 (기여도 100%)
 - 확인경로: 서비스 종료
 
 ### 권역/버티컬 (2013.11 ~ 2016.12)
 - 소개: 지역별(4종) 업종별(13종)로 채용공고를 보여주는 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, Google Map등
+- 관련 기술: Storyboard, Auto Layout, REST API, Google Map 등
 - 역할:
     - Objective-C > Swift로 전환 (기여도 100%)
 - 경험 & 성장한 점:
@@ -151,7 +156,7 @@ GitHub: https://github.com/tsleedev
 
 ### 거기어때 (2013.11 ~ 2015.06)
 - 소개: 페이스북 친구들이 다니는 회사를 보여주며 회사에 대해 문의하는 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, Facebook연동 등
+- 관련 기술: Storyboard, Auto Layout, REST API, Facebook 연동 등
 - 역할: iOS 개발 및 기능 업데이트
 - 확인경로: 서비스 종료
 
@@ -182,7 +187,7 @@ GitHub: https://github.com/tsleedev
 
 ### 알바네비 (2013.11 ~ 2016.04)
 - 소개: 내 주변 일자리 정보 제공 지역 기반 커뮤니티 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, Facebook연동 등
+- 관련 기술: Storyboard, Auto Layout, REST API, Facebook 연동 등
 - 역할:
     - iOS 설계, 개발, 유지보수 (기여도 50%)
     - Objective-C > Swift로 전환 (기여도 50%)
@@ -256,7 +261,7 @@ GitHub: https://github.com/tsleedev
     14. 초간단 웹앱 만들기 (10H)
 - [강의자료](https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료)
 
-### 오프라인 수강 
+### 오프라인 수강
 - 프로젝트로 정복하는 RxJava 2기 (2019.09 ~ 2019.10)
 - JavaScript 부트 캠프 12기 (2019.06 ~ 2019.08)
 - Flutter로 구현하는 크로스플랫폼 앱 개발 1기 (2019.05 ~ 2019.06)
@@ -280,7 +285,7 @@ GitHub: https://github.com/tsleedev
 - 소개:
     - TodayExtension을 활용한 위젯 캘린더
     - 등록된 캘린더의 일정을 가져와서 보여줌
-- 관련 기술: TodayExtension, EventKit, CloudKit, App Groups, RxSwift, Realm, 다국어지원, Firebase
+- 관련 기술: TodayExtension, EventKit, CloudKit, App Groups, RxSwift, Realm, 다국어 지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
 - 성과: 스승의 날 기념 컨셉으로 피처링 선정 (2017.04)
 - 확인경로: [https://apps.apple.com/kr/app/id1078875308](https://apps.apple.com/kr/app/id1078875308)
@@ -289,7 +294,7 @@ GitHub: https://github.com/tsleedev
 - 소개:
     - TodayExtension을 활용한 위젯 미리알림
     - 기본 미리 알림의 데이터를 가져와서 위젯에서 사용하기 편하게 만듦
-- 관련 기술: TodayExtension, EventKit, App Groups, 다국어지원, Firebase
+- 관련 기술: TodayExtension, EventKit, App Groups, 다국어 지원, Firebase
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여
 - 확인경로: 서비스 종료
 <br><br>
@@ -299,7 +304,7 @@ GitHub: https://github.com/tsleedev
 - 소개:
     - 첫 화면에서 간단하게 자신만의 배경 선택 및 오늘 수업 시간표 제공
     - 두 번째 화면에서 전체 수업 시간표 제공
-- 관련 기술: CoreData, 다국어지원, GoogleAnalytics
+- 관련 기술: CoreData, 다국어 지원, GoogleAnalytics
 - 역할:
     - 기획 및 운영 (기여도 30%)
     - iOS 개발 (기여도 100%)
@@ -311,13 +316,13 @@ GitHub: https://github.com/tsleedev
 - 역할:
     - 기획 및 운영 (기여도 30%)
     - iOS 개발 (기여도 100%)
-- 관련 기술: CoreData, 다국어지원, GoogleAnalytics
+- 관련 기술: CoreData, 다국어 지원, GoogleAnalytics
 - 성과: 미국 스토어에 피처링 선정 (2013.12)
 - 확인경로: 서비스 종료
 
 ### MindMap (2014.09)
 - 소개: MIND TREE를 이용하여 마이드 맵핑, 생각정리, 업무정리
-- 관련 기술: CoreData, 다국어지원, GoogleAnalytics
+- 관련 기술: CoreData, 다국어 지원, GoogleAnalytics
 - 역할: 기획, 개발, 운영 모든 부분을 20% 기여
 - 확인경로: 서비스 종료
 <br><br>
