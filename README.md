@@ -1,4 +1,5 @@
 # 이태수
+**이메일**: tslee.dev@gmail.com | **전화**: 010-4635-6536 | **GitHub**: https://github.com/tsleedev
 
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인할 수 있습니다:<br>
 > [https://github.com/tsleedev/resume](https://github.com/tsleedev/resume)
