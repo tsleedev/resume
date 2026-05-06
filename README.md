@@ -261,55 +261,20 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 <br><br>
 
 ## 오픈 소스 개발
-### 토스트 관리 (2024.06)
-- 소개: 토스트 메시지를 편리하게 사용하기 위해 제작
-- 확인경로: [https://github.com/tsleedev/TSToast](https://github.com/tsleedev/TSToast)
-
-### 광고 관리 (2023.07)
-- 소개: AdMob과 AdManager를 편리하게 사용하기 위해 제작
-- 확인경로: [https://github.com/tsleedev/TSAdView](https://github.com/tsleedev/TSAdView)
-
-### SwiftUI 커스텀 달력 (2025.01)
-- 소개: Widget Extension에서 순수 SwiftUI만 사용 가능해 SwiftUI로 달력 제작
-- 확인경로: [https://github.com/tsleedev/TSCalendar](https://github.com/tsleedev/TSCalendar)
-
-### 커스텀 달력 (2018.04)
-- 소개: 달력을 커스터마이징하여 사용하기 위해 제작
-- 확인경로: [https://github.com/tsleedev/TSCalendar2](https://github.com/tsleedev/TSCalendar2)
-
-### 로컬 알림 관리 (2021.06)
-- 소개: 로컬 알림 개수 제한(64개)을 최대로 활용하기 위해 가장 빠른 일정의 알림을 효율적으로 등록하도록 도와주기 위해 제작
-- 확인경로: [https://github.com/tsleedev/TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)
-
-### WKWebView 쿠키 관리 (2021.07)
-- 소개: WKWebView는 쿠키를 직접 관리해야 해서 쿠키 관리 및 JavaScript Bridge 활용을 Android와 같은 방법으로 웹에서 호출 가능하도록 하기 위해 제작
-- 확인경로: [https://github.com/tsleedev/TSWebView](https://github.com/tsleedev/TSWebView)
-
-### 화면 전환 애니메이션 (2021.10)
-- 소개: 화면 전환 애니메이션을 사용하기 쉽게 하기 위해 제작
-- 확인경로: [https://github.com/tsleedev/TSPresentation](https://github.com/tsleedev/TSPresentation)
-
-### 그 외 샘플과 데모 프로젝트를 꾸준히 작성 중
-- github: [https://github.com/tsleedev?tab=repositories](https://github.com/tsleedev?tab=repositories)
+- **[TSCalendar](https://github.com/tsleedev/TSCalendar)** (2025.01) — Widget Extension용 순수 SwiftUI 달력
+- **[TSToast](https://github.com/tsleedev/TSToast)** (2024.06) — 토스트 메시지 편의 라이브러리
+- **[TSAdView](https://github.com/tsleedev/TSAdView)** (2023.07) — AdMob/AdManager 편의 래퍼
+- **[TSPresentation](https://github.com/tsleedev/TSPresentation)** (2021.10) — 화면 전환 애니메이션 편의 라이브러리
+- **[TSWebView](https://github.com/tsleedev/TSWebView)** (2021.07) — WKWebView 쿠키 관리 + Android 동일 방식 JavaScript Bridge
+- **[TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)** (2021.06) — 로컬 알림 64개 제한을 효율적으로 활용하는 스케줄러
+- **[TSCalendar2](https://github.com/tsleedev/TSCalendar2)** (2018.04) — 커스텀 달력 라이브러리
+- 그 외 샘플·데모 프로젝트: [전체 저장소](https://github.com/tsleedev?tab=repositories)
 <br><br>
 
 ## 그 외 활동
 ### 사람인 사내 iOS 세미나 강사 (2019.04)
-- 오프라인으로 매회 1~2시간 강의 14회 이상. 커리큘럼:
-    1. Hello, World! (2H)
-    2. iOS 앱의 구조 (2H)
-    3. 스토리보드 (2H)
-    4. 화면 전환 (2H)
-    5. 다른 뷰 컨트롤러와 데이터 주고 받기 (4H)
-    6. Delegate, Notification (2H)
-    7. 테이블 뷰 (4H)
-    8. CoreData 사용해보기 (2H)
-    9. 네트워크 통신 (4H)
-    10. 웹 뷰 (6H)
-    11. 오토 레이아웃 (2H)
-    12. Firebase 활용하기 (2H)
-    13. 배포 해보기 (2H)
-    14. 초간단 웹앱 만들기 (10H)
+- 오프라인 14회·총 약 46시간 강의 진행 — iOS 기초부터 배포·웹앱 제작까지 커리큘럼 직접 설계
+- 커버 주제: iOS 앱 구조, 스토리보드, 화면 전환, Delegate/Notification, 테이블 뷰, CoreData, 네트워크 통신, WKWebView, 오토 레이아웃, Firebase, 배포
 - [강의자료](https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료)
 
 ### 오프라인 수강
