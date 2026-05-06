@@ -175,31 +175,17 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 
 ## 경력
 ### 핀크 (2020년 4월 ~ 현재)
-- 기술 전환 및 코드 품질 관리:
-    - Objective-C > Swift 전환
-    - AFNetworking > Alamofire 전환
-    - SwiftLint 및 SwiftGen 적용
-    - 테스트 코드를 작성하여 앱의 안정성과 신뢰성 강화
-    - 정기적인 코드 리뷰를 통해 팀 전체의 코드 품질 향상
-    - 팀 세미나를 주최하여 최신 기술 동향 및 모범 사례 공유
-    - GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 시스템 도입
-- 아키텍처 혁신 및 표준화:
-    - RxSwift 및 MVVM 패턴 도입
-    - Composable Architecture 도입
-    - FlexLayout, PinLayout 도입
-    - Tuist와 Modular Architecture 도입 → Preview 및 ExampleApp 활용 최적화
-    - Figma를 활용한 Typography 및 Color Style 표준화
-- 다양한 기능 개발 및 관리:
-    - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
+- iOS 설계·개발·유지보수 (대출, 투자, 마이데이터 서비스)
+- 핵심 기여: **Tuist 기반 Modular Architecture 도입**, **예약송금 기능 제안·구현** (상세는 본문 1·2번 참조)
+- 기술 스택: Swift, RxSwift, MVVM, Composable Architecture, FlexLayout/PinLayout, SwiftLint, SwiftGen, Fastlane, GitLab CI/CD, Figma
+- 코드 품질·협업: 정기 코드 리뷰 운영, 팀 세미나 주최, **GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 도입**
+- 주요 기능 개발: 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑
 
 ### 사람인HR (2013년 11월 ~ 2020년 3월)
-- 기술 전환 및 코드 품질 관리:
-    - Objective-C > Swift 전환
-    - AFNetworking > Alamofire 전환
-    - UIWebView > WKWebView 전환
-- 아키텍처 혁신 및 표준화:
-    - RxSwift 및 MVVM 패턴 도입
-    - JavaScript Bridge 모듈화 및 가이드
+- iOS 설계·개발·유지보수 (구인구직 메인 앱 외 사내 10여 종 앱)
+- 핵심 기여: **JavaScript Bridge 모듈화 및 협업 체계 구축**, **알림 수신 통계 시스템 제안·구축** (상세는 본문 3·4번 참조)
+- 기술 스택: Swift, Objective-C, RxSwift, MVVM, WKWebView, Notification Service Extension, TodayExtension
+- 신규 기술 도입 주도: 3D Touch, 이미지 푸시, TodayExtension 등 적용 건의·구현
 
 ### 플레타뮤토 (2009년 10월 ~ 2013년 7월)
 - Objective-C로 앱 개발 및 유지 보수
@@ -210,30 +196,32 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 ### 핀크 (2020.04 ~ 현재)
 - 소개: 대출, 투자, 마이데이터 서비스
 - 관련 기술: RxSwift, Tuist, Storyboard, Auto Layout, SnapKit, FlexLayout, PinLayout, WKWebView, Alamofire, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen, Fastlane, GitLab CI/CD, Figma 등
-- 역할 & 성과:
-    - **담당 업무**:
-        - iOS 설계, 개발, 유지보수 (기여도 35%)
-        - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
-    - **기술 개선**:
-        - Objective-C > Swift로 전환 > RxSwift MVVM 도입 → 코드 가독성 및 유지보수성 향상 (기여도 80%)
-        - AFNetworking > Alamofire 전환 → 네트워크 레이어 현대화 (기여도 80%)
-        - SwiftLint, SwiftGen 적용 → 코드 품질 일관성 확보 (기여도 100%)
-        - Figma의 Typography 및 Color Style 표준화 → 디자이너 협업 효율 강화 (기여도 100%)
-        - Composable Architecture 도입 → 단방향 데이터 플로우 및 테스트 가능한 구조 확립 (기여도 100%)
-        - Tuist 및 Modular Architecture 도입 → 빌드 시간 단축, 개발 속도 향상, 테스트 용이성 향상, 병렬 개발 가능 (기여도 100%)
-        - 테스트 코드 작성 → 앱 안정성 및 신뢰성 강화
-        - GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 시스템 도입 → 리뷰 품질 일관성 및 팀 생산성 향상
-        - 정기적인 코드 리뷰 → 팀 전체 코드 품질 향상
-        - 팀 세미나 주최 → 최신 기술 동향 및 모범 사례 공유
-- 경험 & 성장한 점:
-    - 레거시 전환 프로젝트를 주도하며 점진적 마이그레이션 전략 수립 능력 습득
-    - 팀 세미나와 코드 리뷰 문화를 정착시키며 기술 리더십 역량 강화
-    - 모듈화 아키텍처 설계 및 의존성 최적화를 통해 대규모 프로젝트 빌드 시스템 개선 경험
-    - 새로운 아키텍처 및 개발 패러다임 도입을 통해 팀 전체의 개발 워크플로우 개선 경험
+- 담당 업무: iOS 설계·개발·유지보수 (기여도 35%) — 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
+- 핵심 기술 개선:
+    - **Tuist + Modular Architecture 도입** → 빌드 시간 단축, 병렬 개발 가능 (기여도 100%) — 상세 본문 1번
+    - **Composable Architecture 도입** → 단방향 데이터 플로우 및 테스트 가능한 구조 확립 (기여도 100%)
+    - **Objective-C → Swift, RxSwift+MVVM 전환** → 코드 가독성·유지보수성 향상 (기여도 80%)
+    - **GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 도입** → 리뷰 품질 일관성·팀 생산성 향상
+- 경험 & 성장: 레거시 마이그레이션 전략 수립, 기술 리더십(세미나·코드 리뷰 문화), 모듈화 아키텍처 설계 및 빌드 시스템 개선
 - 확인경로: [https://apps.apple.com/app/id1260871482](https://apps.apple.com/app/id1260871482)
 <br><br>
 
 ## 프로젝트 (사람인)
+### 사람인 (2013.11 ~ 2020.03)
+- 소개: 구인구직 포털 대표 모바일 앱 (채용공고 검색, 입사지원)
+- 관련 기술: RxSwift, TodayExtension, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화, 3D Touch, 소셜로그인(Naver, Facebook, Google, Kakao), Dynamic Link, AdMob 등
+- 역할:
+    - iOS 설계, 개발, 유지보수 (기여도 100%)
+    - Objective-C → Swift 전환, RxSwift MVVM 도입 (기여도 100%)
+    - UIWebView → WKWebView 전환 + **JavaScript Bridge 모듈화** (기여도 100%) — 상세 본문 3번
+    - **Notification Service Extension 활용한 알림 수신 통계 시스템 구축** (기여도 100%) — 상세 본문 4번
+- 경험 & 성장한 점:
+    - 일정 조율 및 프로젝트 관리 경험
+    - 3D Touch, 이미지 푸시(Notification Service Extension), TodayExtension 등 신규 기술 적용 건의·구현
+    - Google Analytics, Firebase, Fabric 활용한 통계·Crash 수집으로 서비스 안정화 기여
+    - 서버점검·업데이트 팝업 건의·적용으로 안정적 서비스 운영
+- 확인경로: [https://apps.apple.com/app/id739013038](https://apps.apple.com/app/id739013038)
+
 ### 아이엠그라운드 (2019.06 ~ 2020.03)
 - 소개: 모의면접 AI 분석 서비스 (인적성 검사, 면접 질문에 대한 답변을 녹화 후 AWS에서 분석)
 - 관련 기술: RxSwift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 동영상 촬영, AWS S3, 인앱 결제, Dynamic Link 등
@@ -242,94 +230,19 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
     - RxSwift MVVM 패턴으로 앱 개발 및 유지보수 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id1472955601](https://apps.apple.com/app/id1472955601)
 
-### 사람인 (2013.11 ~ 2020.03)
-- 소개: 구인구직 포털 대표 모바일 앱 (채용공고 검색, 입사지원)
-- 관련 기술: RxSwift, TodayExtension, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화, 3D Touch, 소셜로그인(Naver, Facebook, Google, Kakao), Dynamic Link, AdMob 등
-- 역할:
-    - iOS 설계, 개발, 유지보수 (기여도 100%)
-    - Objective-C > Swift로 전환 > RxSwift MVVM 도입 (기여도 100%)
-    - UIWebView > WKWebView 전환 > JavaScript Bridge 모듈화 및 가이드 (기여도 100%)
-- 경험 & 성장한 점:
-    - 일정 조율 및 프로젝트 관리 등을 맡아서 진행한 경험
-    - 잦은 웹과 앱의 연동 요청으로 JavaScript Bridge 모듈화 및 가이드 작성 후 세미나를 통해 전파한 경험
-    - 3D Touch, 이미지 푸시(Notification Service Extension), TodayExtension 등 새로운 기술을 적용 건의해 추가한 경험
-    - Notification Service Extension을 활용해서 알림 수신 확인 통계를 건의해 추가한 경험
-    - Google Analytics, Firebase, Fabric 등을 활용한 통계, Crash 수집 등을 통해 서비스 안정화에 기여함
-    - 입사 초기 앱의 안정적인 서비스를 위해 서버점검, 업데이트 팝업을 적용할 수 있게 건의 적용한 경험
-- 확인경로: [https://apps.apple.com/app/id739013038](https://apps.apple.com/app/id739013038)
-
-### 연봉계산기 (2013.11 ~ 2020.03)
-- 소개: 연봉으로 월 실수령액을 계산해주는 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, SHA512 암호화 등
-- 역할:
-    - iOS 개발, 유지보수 (기여도 100%)
-    - Objective-C > Swift로 전환 (기여도 100%)
-- 확인경로: [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221)
-
-### 맞춤취업사람인 (2013.11 ~ 2018.09)
-- 소개: 사용자의 설정에 맞춰 채용공고를 보여주는 앱
-- 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화 등
-- 역할:
-    - iOS 개발, 유지보수 (기여도 100%)
-    - Objective-C > Swift로 전환 (기여도 100%)
-- 확인경로: 서비스 종료
-
-### 공채의명가 (2013.11 ~ 2018.02)
-- 소개: 공채를 준비하는 타겟을 위한 공채 정보 전달 앱
-- 관련 기술: Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, AES256 암호화 등
-- 역할:
-    - iOS 개발, 유지보수 (기여도 100%)
-    - Objective-C > Swift로 전환 (기여도 100%)
-- 확인경로: 서비스 종료
-
-### 권역/버티컬 (2013.11 ~ 2016.12)
-- 소개: 지역별(4종) 업종별(13종)로 채용공고를 보여주는 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, Google Map 등
-- 역할:
-    - Objective-C > Swift로 전환 (기여도 100%)
-- 경험 & 성장한 점:
-    - 같은 컨셉의 앱을 추가 출시했다가 스팸으로 판단되어 리젝당한 경험
-    - 같은 소스코드로 타켓만 분리하여 관리한 경험
-- 확인경로: 서비스 종료
-
-### 거기어때 (2013.11 ~ 2015.06)
-- 소개: 페이스북 친구들이 다니는 회사를 보여주며 회사에 대해 문의하는 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, Facebook 연동 등
-- 역할: iOS 개발 및 기능 업데이트
-- 확인경로: 서비스 종료
-
 ### 오투잡 (2016.04 ~ 2020.03)
 - 소개: 투잡 포털 오투잡의 대표 모바일 앱
 - 관련 기술: 이니시스 결제 모듈 연동, Swift, Storyboard, Auto Layout, WKWebView, Keychain, UUID, APNS, REST API, 소셜로그인(Naver, Google, Facebook, Kakao), 파일 업/다운로드 등
 - 역할:
     - iOS 설계, 개발, 유지보수 (기여도 100%)
-    - Objective-C > Swift로 전환 (기여도 100%)
-    - UIWebView > WKWebView 전환 (기여도 100%)
+    - Objective-C → Swift 전환 (기여도 100%)
+    - UIWebView → WKWebView 전환 (기여도 100%)
 - 확인경로: [https://apps.apple.com/app/id1093727086](https://apps.apple.com/app/id1093727086)
 
-### 맞춤알바 (2013.11 ~ 2016.04)
-- 소개: 사용자의 설정에 맞춰 알바공고를 보여주는 앱
-- 관련 기술: Storyboard, Auto Layout, APNS, REST API 등
-- 역할:
-    - iOS 설계, 개발, 유지보수 (기여도 50%)
-    - Objective-C > Swift로 전환 (기여도 50%)
-- 확인경로: 서비스 종료
-
-### 쉽고빠른알바인 (2013.11 ~ 2016.04)
-- 소개: 위치 기반으로 알바공고를 보여주는 앱 (구인공고를 앱에서 바로 등록 가능)
-- 관련 기술: Storyboard, Auto Layout, APNS, REST API, Google Map 등
-- 역할:
-    - iOS 설계, 개발, 유지보수 (기여도 50%)
-    - Objective-C > Swift로 전환 (기여도 50%)
-- 확인경로: 서비스 종료
-
-### 알바네비 (2013.11 ~ 2016.04)
-- 소개: 내 주변 일자리 정보 제공 지역 기반 커뮤니티 앱
-- 관련 기술: Storyboard, Auto Layout, REST API, Facebook 연동 등
-- 역할:
-    - iOS 설계, 개발, 유지보수 (기여도 50%)
-    - Objective-C > Swift로 전환 (기여도 50%)
-- 확인경로: 서비스 종료
+### 그 외 사내 앱 유지보수 (2013.11 ~ 2020.03)
+- 연봉계산기, 맞춤취업사람인, 공채의명가, 권역/버티컬, 거기어때, 맞춤알바, 쉽고빠른알바인, 알바네비 등 사내 8종 앱의 iOS 개발·유지보수 및 Objective-C → Swift 전환
+- 권역/버티컬: 동일 컨셉 앱 추가 출시 후 스팸으로 판단되어 리젝당한 경험 → 단일 코드베이스로 타깃만 분리해 관리하는 방식 학습
+- 확인경로: 연봉계산기 [https://apps.apple.com/app/id536455221](https://apps.apple.com/app/id536455221) 외 서비스 종료
 <br><br>
 
 ## 프로젝트 (플레타뮤토)
