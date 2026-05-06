@@ -14,13 +14,13 @@
   * **알림 통계 시스템 제안·구현**으로 사용자 참여도 향상
 
 * **핀크(Finnq)**
-  * **Tuist 기반 Microfeatures 아키텍처**를 설계·도입하여 기능 독립성, 테스트 용이성, 개발 속도, 유지보수 효율을 향상
+  * **Tuist 기반 Modular 아키텍처**를 설계·도입하여 기능 독립성, 테스트 용이성, 개발 속도, 유지보수 효율을 향상
   * **모듈 간 의존도 정리 및 빌드 최적화 작업을 주도**, 재빌드 범위 축소와 빌드 시간 안정화를 통해 대규모 프로젝트 유지보수성 확보
   * **SwiftLint, SwiftGen, Fastlane**을 팀 내 표준으로 정착시켜 코드 품질 관리와 배포 자동화 수준 강화
 
 * **개발 철학**
   * 새로운 기술을 빠르게 학습·적용하되, 팀 상황에 맞는 **점진적·지속 가능한 도입**을 지향
-  * **안정적이고 확장 가능한 앱**을 통해 사용자에게 실질적 가치를 제공하는 것이 제 개발의 중심입니다.
+  * **안정적이고 확장 가능한 앱**을 통해 사용자에게 실질적 가치 제공을 지향
 
 ---
 
@@ -39,7 +39,7 @@
 
 **어떻게 해결했나**
 
-- 구글링과 다른 회사 사례를 찾아보며 Tuist + Microfeatures Architecture를 알게 됨
+- 구글링과 다른 회사 사례를 찾아보며 Tuist + Modular Architecture를 알게 됨
 - Tuist 공식 문서를 공부하며 모듈 구조 설계 방법 학습
 - 각 Feature를 5개의 구성 요소로 분리하는 구조 적용:
   - **Interface**: 다른 모듈이 사용할 수 있는 공개 인터페이스 (순환 참조 방지)
@@ -187,8 +187,8 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
     - RxSwift 및 MVVM 패턴 도입
     - Composable Architecture 도입
     - FlexLayout, PinLayout 도입
-    - Tuist와 Microfeatures Architecture 도입 → Preview 및 ExampleApp 활용 최적화
-    - 피그마를 활용한 Typography 및 Color Style 표준화
+    - Tuist와 Modular Architecture 도입 → Preview 및 ExampleApp 활용 최적화
+    - Figma를 활용한 Typography 및 Color Style 표준화
 - 다양한 기능 개발 및 관리:
     - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
 
@@ -218,9 +218,9 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
         - Objective-C > Swift로 전환 > RxSwift MVVM 도입 → 코드 가독성 및 유지보수성 향상 (기여도 80%)
         - AFNetworking > Alamofire 전환 → 네트워크 레이어 현대화 (기여도 80%)
         - SwiftLint, SwiftGen 적용 → 코드 품질 일관성 확보 (기여도 100%)
-        - 피그마의 Typography 및 Color Style 표준화 → 디자이너 협업 효율 강화 (기여도 100%)
+        - Figma의 Typography 및 Color Style 표준화 → 디자이너 협업 효율 강화 (기여도 100%)
         - Composable Architecture 도입 → 단방향 데이터 플로우 및 테스트 가능한 구조 확립 (기여도 100%)
-        - Tuist 및 Microfeatures Architecture 도입 → 빌드 시간 단축, 개발 속도 향상, 테스트 용이성 향상, 병렬 개발 가능 (기여도 100%)
+        - Tuist 및 Modular Architecture 도입 → 빌드 시간 단축, 개발 속도 향상, 테스트 용이성 향상, 병렬 개발 가능 (기여도 100%)
         - 테스트 코드 작성 → 앱 안정성 및 신뢰성 강화
         - GitLab CI/CD에 Ollama(32B) 기반 자동 코드 리뷰 시스템 도입 → 리뷰 품질 일관성 및 팀 생산성 향상
         - 정기적인 코드 리뷰 → 팀 전체 코드 품질 향상
@@ -416,53 +416,6 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 - FESTA : GDG Campus Korea, "Try! Flutter - 우리 함께 해봐요" (2019.07.27)
 - NAVER DEVIEW 2017, 2018
 - AWS Summit Seoul 2017
-<br><br>
-
-## 개인 프로젝트
-### 위젯 캘린더 : 깔끔하고 심플한 달력 (2015.12 ~ 2019.11)
-- 소개:
-    - TodayExtension을 활용한 위젯 캘린더
-    - 등록된 캘린더의 일정을 가져와서 보여줌
-- 관련 기술: TodayExtension, EventKit, CloudKit, App Groups, RxSwift, Realm, 다국어 지원, Firebase
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여
-- 성과: 스승의 날 기념 컨셉으로 피처링 선정 (2017.04)
-- 확인경로: [https://apps.apple.com/kr/app/id1078875308](https://apps.apple.com/kr/app/id1078875308)
-
-### 위젯 미리알림 (2017.01 ~ 2019.11)
-- 소개:
-    - TodayExtension을 활용한 위젯 미리알림
-    - 기본 미리 알림의 데이터를 가져와서 위젯에서 사용하기 편하게 만듦
-- 관련 기술: TodayExtension, EventKit, App Groups, 다국어 지원, Firebase
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여
-- 확인경로: 서비스 종료
-<br><br>
-
-## 스터디 프로젝트
-### Today Class (2013.02)
-- 소개:
-    - 첫 화면에서 간단하게 자신만의 배경 선택 및 오늘 수업 시간표 제공
-    - 두 번째 화면에서 전체 수업 시간표 제공
-- 관련 기술: CoreData, 다국어 지원, GoogleAnalytics
-- 역할:
-    - 기획 및 운영 (기여도 30%)
-    - iOS 개발 (기여도 100%)
-- 성과: AppStore에서 4만명 이상 다운로드 (고등학생, 대학생 버전 등록)
-- 확인경로: 서비스 종료
-
-### Life Graphy (2013.12)
-- 소개: 습관 관리 앱
-- 역할:
-    - 기획 및 운영 (기여도 30%)
-    - iOS 개발 (기여도 100%)
-- 관련 기술: CoreData, 다국어 지원, GoogleAnalytics
-- 성과: 미국 스토어에 피처링 선정 (2013.12)
-- 확인경로: 서비스 종료
-
-### MindMap (2014.09)
-- 소개: MIND TREE를 이용하여 마인드 맵핑, 생각정리,업무정리
-- 관련 기술: CoreData, 다국어 지원, GoogleAnalytics
-- 역할: 기획, 개발, 운영 모든 부분을 20% 기여
-- 확인경로: 서비스 종료
 <br><br>
 
 감사합니다.
