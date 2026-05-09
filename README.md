@@ -204,6 +204,7 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
     - **Tuist + Modular Architecture 도입** → 빌드 시간 단축, 병렬 개발 가능 (기여도 100%) — 상세 본문 1번
     - **Composable Architecture 도입** → 단방향 데이터 플로우 및 테스트 가능한 구조 확립 (기여도 100%)
     - **Objective-C → Swift, RxSwift+MVVM 전환** → 코드 가독성·유지보수성 향상 (기여도 80%)
+    - **외부 파트너용 framework 제공** → 하나은행에서 핀크 서비스를 이용할 수 있는 iOS framework 개발
 - 경험 & 성장: 레거시 마이그레이션 전략 수립, 기술 리더십(세미나·코드 리뷰 문화), 모듈화 아키텍처 설계 및 빌드 시스템 개선
 - 확인경로: [https://apps.apple.com/app/id1260871482](https://apps.apple.com/app/id1260871482)
 <br><br>
