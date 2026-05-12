@@ -1,0 +1,94 @@
+body {
+  font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  font-size: 12px;
+  color: #333;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+h1 {
+  font-size: 1.7em;
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+  margin-top: 0;
+  margin-bottom: 6px;
+}
+h2 {
+  font-size: 1.25em;
+  margin-top: 14px;
+  margin-bottom: 5px;
+  color: #2c3e50;
+  border-bottom: 1px solid #ecf0f1;
+  padding-bottom: 3px;
+  page-break-after: avoid;
+}
+h3 {
+  font-size: 1.05em;
+  margin-top: 22px;
+  margin-bottom: 6px;
+  color: #34495e;
+  page-break-after: avoid;
+}
+ul {
+  padding-left: 18px;
+  margin-top: 3px;
+  margin-bottom: 6px;
+}
+ul ul {
+  padding-left: 16px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+li {
+  margin-bottom: 2px;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+p {
+  margin-top: 3px;
+  margin-bottom: 5px;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+/* 본문 1~4번 서브섹션 (왜/어떻게/어려웠던 점/결과) - 메인 헤더와 시각적 위계 분리 */
+p:has(> strong:only-child) {
+  margin-top: 14px;
+  margin-bottom: 4px;
+  color: #34495e;
+}
+p:has(> strong:only-child) > strong {
+  font-size: 1em;
+}
+/* 주요 성과 섹션(1번째 h2)의 모든 본문 컨텐츠를 들여쓰기. 학력(2번째 h2) 이후 리셋 */
+h2:nth-of-type(1) ~ p,
+h2:nth-of-type(1) ~ ul,
+h2:nth-of-type(1) ~ ol {
+  margin-left: 14px;
+}
+h2:nth-of-type(2) ~ p,
+h2:nth-of-type(2) ~ ul,
+h2:nth-of-type(2) ~ ol {
+  margin-left: 0;
+}
+a {
+  color: #3498db;
+  text-decoration: none;
+  word-break: break-all;
+}
+blockquote {
+  border-left: 3px solid #3498db;
+  padding-left: 10px;
+  color: #666;
+  margin: 8px 0;
+}
+strong {
+  color: #2c3e50;
+}
+hr {
+  margin: 12px 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
