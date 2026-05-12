@@ -8,8 +8,8 @@
 팀이 효율적으로 일하고, 사용자가 편하게 쓸 수 있는 앱을 만드는 데 집중해 왔습니다.
 
 * **핀크(Finnq)**
-  * **Tuist 기반 Modular 아키텍처** 설계·도입 — 모듈 의존성 정리 및 빌드 최적화로 빌드 시간 단축 및 병렬 개발 환경 확보
-  * **예약송금 기능 제안·구현** — 점검시간에 막힌 송금 흐름을 끊김 없이 전환하여 사용자 경험 개선
+  * **Tuist 기반 Modular 아키텍처** 설계·도입 - 모듈 의존성 정리 및 빌드 최적화로 빌드 시간 단축 및 병렬 개발 환경 확보
+  * **예약송금 기능 제안·구현** - 점검시간에 막힌 송금 흐름을 끊김 없이 전환하여 사용자 경험 개선
   * **SwiftLint·SwiftGen·Fastlane** 팀 표준화로 코드 품질 관리·배포 자동화 강화
   * **팀 세미나 주도**로 최신 기술 동향 공유 및 학습 문화 정착
 
@@ -199,9 +199,9 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 ### 핀크 (2020.04 ~ 현재)
 - 소개: 대출, 투자, 마이데이터 서비스
 - 관련 기술: RxSwift, Tuist, Storyboard, Auto Layout, SnapKit, FlexLayout, PinLayout, WKWebView, Alamofire, Keychain, UUID, APNS, REST API, MVVM, SwiftLint, SwiftGen, Fastlane, GitLab CI/CD, Figma 등
-- 담당 업무: iOS 설계·개발·유지보수 (기여도 35%) — 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
+- 담당 업무: iOS 설계·개발·유지보수 (기여도 35%) - 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑 등
 - 핵심 기술 개선:
-    - **Tuist + Modular Architecture 도입** → 빌드 시간 단축, 병렬 개발 가능 (기여도 100%) — 상세 본문 1번
+    - **Tuist + Modular Architecture 도입** → 빌드 시간 단축, 병렬 개발 가능 (기여도 100%) - 상세 본문 1번
     - **Composable Architecture 도입** → 단방향 데이터 플로우 및 테스트 가능한 구조 확립 (기여도 100%)
     - **Objective-C → Swift, RxSwift+MVVM 전환** → 코드 가독성·유지보수성 향상 (기여도 80%)
     - **외부 파트너용 framework 제공** → 하나은행에서 핀크 서비스를 이용할 수 있는 iOS framework 개발
@@ -216,8 +216,8 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 - 역할:
     - iOS 설계, 개발, 유지보수 (기여도 100%)
     - Objective-C → Swift 전환, RxSwift MVVM 도입 (기여도 100%)
-    - UIWebView → WKWebView 전환 + **JavaScript Bridge 모듈화** (기여도 100%) — 상세 본문 3번
-    - **Notification Service Extension 활용 알림 수신 추적 구현** (기여도 100%) — 상세 본문 4번
+    - UIWebView → WKWebView 전환 + **JavaScript Bridge 모듈화** (기여도 100%) - 상세 본문 3번
+    - **Notification Service Extension 활용 알림 수신 추적 구현** (기여도 100%) - 상세 본문 4번
 - 경험 & 성장한 점:
     - 일정 조율 및 프로젝트 관리 경험
     - 3D Touch, 이미지 푸시(Notification Service Extension), TodayExtension 등 신규 기술 적용 건의·구현
@@ -264,19 +264,19 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 <br><br>
 
 ## 오픈 소스 개발
-- **[TSCalendar](https://github.com/tsleedev/TSCalendar)** (2025.01) — Widget Extension용 순수 SwiftUI 달력
-- **[TSToast](https://github.com/tsleedev/TSToast)** (2024.06) — 토스트 메시지 편의 라이브러리
-- **[TSAdView](https://github.com/tsleedev/TSAdView)** (2023.07) — AdMob/AdManager 편의 래퍼
-- **[TSPresentation](https://github.com/tsleedev/TSPresentation)** (2021.10) — 화면 전환 애니메이션 편의 라이브러리
-- **[TSWebView](https://github.com/tsleedev/TSWebView)** (2021.07) — WKWebView 쿠키 관리 + Android 동일 방식 JavaScript Bridge
-- **[TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)** (2021.06) — 로컬 알림 64개 제한을 효율적으로 활용하는 스케줄러
-- **[TSCalendar2](https://github.com/tsleedev/TSCalendar2)** (2018.04) — 커스텀 달력 라이브러리
+- **[TSCalendar](https://github.com/tsleedev/TSCalendar)** (2025.01) - Widget Extension용 순수 SwiftUI 달력
+- **[TSToast](https://github.com/tsleedev/TSToast)** (2024.06) - 토스트 메시지 편의 라이브러리
+- **[TSAdView](https://github.com/tsleedev/TSAdView)** (2023.07) - AdMob/AdManager 편의 래퍼
+- **[TSPresentation](https://github.com/tsleedev/TSPresentation)** (2021.10) - 화면 전환 애니메이션 편의 라이브러리
+- **[TSWebView](https://github.com/tsleedev/TSWebView)** (2021.07) - WKWebView 쿠키 관리 + Android 동일 방식 JavaScript Bridge
+- **[TSUserNotifications](https://github.com/tsleedev/TSUserNotifications)** (2021.06) - 로컬 알림 64개 제한을 효율적으로 활용하는 스케줄러
+- **[TSCalendar2](https://github.com/tsleedev/TSCalendar2)** (2018.04) - 커스텀 달력 라이브러리
 - 그 외 샘플·데모 프로젝트: [전체 저장소](https://github.com/tsleedev?tab=repositories)
 <br><br>
 
 ## 그 외 활동
 ### 사람인 사내 iOS 세미나 강사 (2019.04)
-- 오프라인 14회·총 약 46시간 강의 진행 — iOS 기초부터 배포·웹앱 제작까지 커리큘럼 직접 설계
+- 오프라인 14회·총 약 46시간 강의 진행 - iOS 기초부터 배포·웹앱 제작까지 커리큘럼 직접 설계
 - 커버 주제: iOS 앱 구조, 스토리보드, 화면 전환, Delegate/Notification, 테이블 뷰, CoreData, 네트워크 통신, WKWebView, 오토 레이아웃, Firebase, 배포
 - [강의자료](https://github.com/tsleedev/resume/tree/master/resources/사람인/강의자료)
 
