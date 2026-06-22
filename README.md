@@ -200,7 +200,7 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
 - iOS 설계·개발·유지보수 (대출, 투자, 마이데이터 서비스)
 - 핵심 기여: **Tuist 기반 Modular Architecture 도입**, **예약송금 기능 제안·구현** (상세는 본문 2·3번 참조)
 - 기술 스택: Swift, RxSwift, MVVM, Composable Architecture, Code-based UI (FlexLayout·PinLayout·SnapKit), SwiftLint, SwiftGen, Fastlane, GitLab CI/CD, Figma
-- 코드 품질·협업: 정기 코드 리뷰 운영, 팀 세미나 주최, AI Native 개발 도입 (Claude Code·Cursor 활용), **Google Analytics MCP 서버 개발** (상세 본문 1번)
+- 코드 품질·협업: 정기 코드 리뷰 운영, 팀 세미나 주최, GitLab CI/CD에 Ollama(Qwen 32B) 기반 자동 코드 리뷰 도입, AI Native 개발 도입 (Claude Code·Cursor 활용), **Google Analytics MCP 서버 개발** (상세 본문 1번)
 - 주요 기능 개발: 출금, 송금, 예약송금, 이미지 푸시, 제로페이 모바일상품권, 스크래핑, 전자문서지갑
 
 ### 사람인 (2013년 11월 ~ 2020년 3월)
@@ -225,6 +225,7 @@ iOS 10에서 Notification Service Extension이 출시되면서, 이를 활용하
     - **Objective-C → Swift, RxSwift+MVVM 전환** → 코드 가독성·유지보수성 향상 (기여도 80%)
     - **FlexLayout·PinLayout 기반 Code-based UI 표준화** → Storyboard 의존 제거, 협업·재사용성 향상
     - **외부 파트너용 framework 제공** → 하나은행에서 핀크 서비스를 이용할 수 있는 iOS framework 개발
+    - **GitLab CI/CD에 Ollama(Qwen 32B) 기반 자동 코드 리뷰 도입** → MR 단위 코드 리뷰 자동화 시도
 - 경험 & 성장: 레거시 마이그레이션 전략 수립, 기술 리더십(세미나·코드 리뷰 문화), 모듈화 아키텍처 설계 및 빌드 시스템 개선
 - 확인경로: [https://apps.apple.com/app/id1260871482](https://apps.apple.com/app/id1260871482)
 <br><br>
